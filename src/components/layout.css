@@ -608,7 +608,7 @@ pre tt:after {
 }
 #gnav a{
   text-decoration: none;
-  color: white;
+  color: black;
   display: block;
   padding: 10%;
 }
