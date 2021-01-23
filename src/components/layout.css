@@ -604,14 +604,72 @@ pre tt:after {
   height: 50px;
 }
 #gnav{
-  height: 50px;
+  height: 100px;
 }
 #gnav a{
   text-decoration: none;
-  color: black;
+  color: rgb(187, 192, 0);
   display: block;
   padding: 10%;
 }
 #gnav :hover{
   background: rgb(91, 45, 137);
+}
+
+
+
+
+
+
+#gnav {
+  margin: 0;
+}
+
+#gnav ul {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+#gnav ul li {
+  flex: 1;
+}
+
+#gnav ul li a {
+  background: #fff;
+  border: 1px solid #ccc;
+  border-right: none;
+  color: #333;
+  display: block;
+  padding: 0.6em 0.4em;
+  text-align: center;
+  text-decoration: none;
+}
+
+#gnav ul li a:hover {
+  background: #ccc;
+  color: #ffffff;
+}
+
+#gnav ul li:last-child a {
+  border-right: 1px solid #ccc;
+}
+
+@media screen and (max-width: 768px) {
+  #gnav ul {
+    flex-wrap: wrap;
+    width: 100%;
+  }
+  #gnav ul li {
+    flex: auto;
+    width: 33.33333333%;
+  }
+  #gnav ul li:nth-child(3n) a {
+    border-right: 1px solid #ccc;
+  }
+  #gnav ul li:nth-child(n + 4) a {
+    border-top: none;
+  }
 }

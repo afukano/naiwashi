@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `🎹 ござ のホームページ(非公式)`,
+    title: `🎹「ござ」のホームページ(非公式)`,
     description: `ピアノ演奏者、アレンジャー、ピアノ譜製作者、ござ(goza)の非公式ウェブサイトです。最新情報から、投稿した動画、生放送、楽譜についてのご案内をしています。`,
     author: `@gatsbyjs`,
   },
