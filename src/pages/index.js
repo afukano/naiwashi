@@ -15,7 +15,9 @@ const IndexPage = () => (
       即興でおこなうラテン風、ボサノバ風、Jazz風等へのアレンジが持ち味。<br/>
       不定期ではあるが、Youtube生配信で即興演奏を披露する。<br/>
       Youtubeで活動する以前は<Link to="https://www.nicovideo.jp/user/3359408">ニコニコ動画</Link>にて「あんだば先生」と呼ばれていた。<br/>
+      <br/>
       <Link to="https://www.ymm.co.jp/magazine/piano/">月刊ピアノ</Link>にて「ござさんの All that Goza's Piano Arrange」を連載中。<br/>
+      編曲した楽譜も販売中。(<Link to="https://mucome.net/profile?id=2690">販売サイトはこちら</Link>)<br/>
       <br/>
       <a href="https://www.youtube.com/channel/UC2Kb6k-aGIaKxlNPkrdcoHA">Youtubeチャンネルはこちら</a><br/>
       <br/>
@@ -42,6 +44,24 @@ const IndexPage = () => (
     <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     <h2>Youtubeチャンネルの紹介動画</h2>
     <p><iframe width="501" height="282" src="https://www.youtube.com/embed/FsIOsWyjz7U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+    <h2>書籍/出版物</h2>
+    <p>
+      <ul>
+        <li>
+          「総再生数1億回超え！ネットピアニストたちの動画を楽譜にしてみた結果・・・！？」ヤマハミュージックメディア(2020年1月24日発売)<br/>
+          <Link to="https://www.ymm.co.jp/feature/netpianists.php">詳細はこちら</Link>
+        </li>
+        <li>
+        「月刊ピアノ」アレンジ講座連載(2020年1月号～現在)
+        </li>
+        <li>
+        「月刊ショパン」 2021年2月号ござ×菊池亮太対談掲載
+        </li>
+        <li>
+        「月刊ショパン」 2021年1月号ござ×ハラミちゃん対談掲載
+        </li>
+      </ul>
+    </p>
   </Layout>
 )
 
