@@ -12,7 +12,7 @@ const SecondPage = () => (
     <h3>Tank!(カウボーイビバップ / Cowboy Bebop OP) Piano cover</h3>
     <p><iframe width="501" height="282" src="https://www.youtube.com/embed/uA2PECsJROA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
     <h3>neu (ニエンテ)を弾いてみた　(piano cover)</h3>
-    <p><iframe width="501" height="282" src="https://www.youtube.com/embed/vs06K1Le5H4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+    <p><Link to="https://www.youtube.com/embed/vs06K1Le5H4">動画はこちら</Link></p>
   </Layout>
 )
 

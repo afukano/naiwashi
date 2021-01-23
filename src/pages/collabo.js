@@ -6,10 +6,10 @@ import SEO from "../components/seo"
 
 const SecondPage = () => (
   <Layout>
-    <SEO title="Page two" />
-    <h1>Hi from the second page</h1>
-    <p>Welcome to page 2</p>
-    <Link to="/">Go back to the homepage</Link>
+    <SEO title="コラボ" />
+    <h2>【告知あり】なにかとても楽しくなる予感の放送をします【すごいと思う】</h2>
+    <p>情熱大陸 / かてぃん</p>
+    <p><iframe width="501" height="282" src="https://www.youtube.com/embed/GOs0KyBD47A?t=5160" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
   </Layout>
 )
 
