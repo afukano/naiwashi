@@ -8,6 +8,10 @@ const SecondPage = () => (
   <Layout>
     <SEO title="What's new" />
     <h1>最新情報</h1>
+    <h2>最新動画</h2>
+    <p>
+      <iframe width="501" height="282" src="https://www.youtube.com/embed/?list=UU2Kb6k-aGIaKxlNPkrdcoHA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </p>
     <h2>NEO PIANO CO.LABO. "Invention" 出演決定！</h2>
     <p>
       話題の配信系ピアニスト「かてぃん」「菊池亮太」「ござ」「けいちゃん」によるコラボライブ第2弾。<br/>
