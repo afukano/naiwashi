@@ -7,7 +7,6 @@ import SEO from "../components/seo"
 const SecondPage = () => (
   <Layout>
     <SEO title="What's new" />
-    <h1>最新情報</h1>
     <h2>最新動画</h2>
     <p>
       <iframe width="501" height="282" src="https://www.youtube.com/embed/?list=UU2Kb6k-aGIaKxlNPkrdcoHA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
