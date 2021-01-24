@@ -8,15 +8,48 @@ const SecondPage = () => (
   <Layout>
     <SEO title="コラボ" />
     <h2>【告知あり】なにかとても楽しくなる予感の放送をします【すごいと思う】 / 事務員G</h2>
-    <p>情熱大陸 / かてぃん(1:26:00～)</p>
+    <p>
+      <b>■見どころポインツ</b><br/>
+      情熱大陸 / かてぃん
+    </p>
     <p>
       <iframe width="501" height="282" src="https://www.youtube.com/embed/GOs0KyBD47A?start=5160" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </p>
+    <br/>
+    <h2>菊池亮太さんとピアノとたわむれるコラボ配信！　2020/10/16/</h2>
+    <p>
+      <b>■見どころポインツ</b><br/>
+      Close to You [Carpenters](菊池ソロピアノ×ござベース)<br/>
+      Close to You [Carpenters](ござソロピアノ×菊池ベース)<br/>
+      枯葉(Autumn Leaves)  [Joseph Kosma](+荒城の月)<br/>
+      エリーゼのために [ベートーヴェン](ラテン風)<br/>
+      ハモって遊ぶ天才二人<br/>
+      悲愴 第2楽章 [ベートーヴェン]<br/>
+      トルコ行進曲 [モーツァルト](世界一周アレンジ?)<br/>
+      Automatic [宇多田ヒカル]
+    </p>
+    <p>
+      <iframe width="501" height="282" src="https://www.youtube.com/embed/hSuJ3R7ZKuk?start=4724" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </p>
+    <br/>
     <h2>【ゲストたくさん】スタジオからグランドピアノでお送りします！ / 事務員G</h2>
-    <p>シロナ戦(ポケモンDP) / 瀬戸一王(1:32:52～)</p>
+    <p>
+      <b>■見どころポインツ</b><br/>
+      シロナ戦(ポケモンDP) / 瀬戸一王
+    </p>
     <p>
       <iframe width="501" height="282" src="https://www.youtube.com/embed/YVj3qWC2Hn8?start=5572" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </p>
+    <br/>
+    <h2>【ゲスト：ござ】スタジオからグランドピアノでお送りします！ / 事務員G</h2>
+    <p>
+      <b>■見どころポインツ</b><br/>
+      革命のエチュードを歌ってみた / 事務員G
+    </p>
+    <p>
+      <iframe width="501" height="282" src="https://www.youtube.com/embed/Rz-TSfEJvfU?start=3818" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </p>
+    <br/>
   </Layout>
 )
 
