@@ -27,6 +27,17 @@ const SecondPage = () => (
       <br/>
       <a href="https://twitter.com/komuro_metal/status/1345695150119403521?s=20">詳細はこちら</a>
     </p>
+    <h2>NEO PIANO CO.LABO.　完全版　〜副音声付き〜販売中</h2>
+    <p>
+      2020年7月24日に開催したNEO PIANO CO.LABO.本公演の映像・音源を再編集し新たな映像作品として配信！<br/>
+      また、本公演だけでなく、出演者達の副音声verも収録。<br/>
+      当日の裏話満載のトークもお楽しみいただけます！<br/>
+      ■チケット販売期間<br/>
+      &nbsp;&nbsp;カード払い：2020年9月26日(土)17:00〜2021年9月24日(金)23:59まで<br/>
+      &nbsp;&nbsp;コンビニ払い：2020年10月6日(火)10:00～2021年9月22日(水)18:00まで<br/>
+      <br/>
+      <a href="https://eplus.jp/sf/classic/neopiano">詳細はこちら</a>
+    </p>
   </Layout>
 )
 
