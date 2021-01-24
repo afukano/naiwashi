@@ -3,6 +3,7 @@ module.exports = {
     title: `ござのホームページ(非公式)`,
     description: `ござのホームページ。ピアノ演奏者、アレンジャー、ピアノ譜製作者、ござの非公式ウェブサイトです。最新情報から、投稿した動画、生放送、楽譜についてのご案内をしています。`,
     author: `@gatsbyjs`,
+    siteUrl: `https://naiwashi.netlify.app/`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
