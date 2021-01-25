@@ -8,7 +8,7 @@ import SEO from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
-    <h2>プロフィール</h2>
+    <h1>ござのプロフィール</h1>
     <p>
       Youtubeを中心に活躍するピアノ演奏者「ござ」の非公式ページ。<br/>
       クラシック、ポップス、Jazz、サブカル系(アニソン、ゲーム曲、ボカロ)等、幅広いレパートリー。<br/>
