@@ -8,7 +8,7 @@ import SEO from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
-    <h1>プロフィール</h1>
+    <h2>プロフィール</h2>
     <p>
       Youtubeを中心に活躍するピアノ演奏者「ござ」の非公式ページ。<br/>
       クラシック、ポップス、Jazz、サブカル系(アニソン、ゲーム曲、ボカロ)等、幅広いレパートリー。<br/>
@@ -41,7 +41,7 @@ const IndexPage = () => (
         February 2, 2019
       </a>
     </blockquote>
-    <h2>Youtubeチャンネルの紹介動画</h2>
+    <h2>Youtubeチャンネル紹介動画</h2>
     <p><iframe width="501" height="282" src="https://www.youtube.com/embed/FsIOsWyjz7U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
     <h2>書籍/出版物</h2>
     <p>
