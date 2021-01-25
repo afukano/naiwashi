@@ -41,7 +41,6 @@ const IndexPage = () => (
         February 2, 2019
       </a>
     </blockquote>
-    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     <h2>Youtubeチャンネルの紹介動画</h2>
     <p><iframe width="501" height="282" src="https://www.youtube.com/embed/FsIOsWyjz7U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
     <h2>書籍/出版物</h2>
