@@ -8,13 +8,42 @@ const SecondPage = () => (
   <Layout>
     <SEO title="代表曲" />
     <h3>ルパン三世のテーマ '80 / Lupin the Third '80 (Piano Cover)</h3>
-    <p><iframe width="501" height="282" src="https://www.youtube.com/embed/mXPXNeLwd1k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+    <p>
+      <div class="youtube">
+        <iframe 
+          src="https://www.youtube.com/embed/mXPXNeLwd1k" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen
+        ></iframe>
+      </div>
+    </p>
     <h3>Tank!(カウボーイビバップ / Cowboy Bebop OP) Piano cover</h3>
-    <p><iframe width="501" height="282" src="https://www.youtube.com/embed/uA2PECsJROA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+    <p>
+      <div class="youtube">
+        <iframe 
+          src="https://www.youtube.com/embed/uA2PECsJROA" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen
+        ></iframe>
+      </div>
+    </p>
     <h3>neu (ニエンテ)を弾いてみた　(piano cover)</h3>
-    <p><Link to="https://www.youtube.com/embed/vs06K1Le5H4">動画はこちら</Link></p>
+    <p>
+      <Link to="https://www.youtube.com/embed/vs06K1Le5H4">動画はこちら</Link>
+    </p>
     <h3>実況！ジャズピアノソロ！カントリーロード</h3>
-    <p><iframe width="501" height="282" src="https://www.youtube.com/embed/M9zVVhpXw6k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+    <p>
+      <div class="youtube">
+        <iframe 
+          src="https://www.youtube.com/embed/M9zVVhpXw6k" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen
+        ></iframe>
+      </div>
+    </p>
   </Layout>
 )
 

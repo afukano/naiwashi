@@ -13,7 +13,14 @@ const SecondPage = () => (
       情熱大陸 / かてぃん
     </p>
     <p>
-      <iframe width="501" height="282" src="https://www.youtube.com/embed/GOs0KyBD47A?start=5160" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <div class="youtube">
+        <iframe 
+          src="https://www.youtube.com/embed/GOs0KyBD47A?start=5160" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen
+        ></iframe>
+      </div>
     </p>
     <br/>
     <h2>菊池亮太さんとピアノとたわむれるコラボ配信！　2020/10/16/</h2>
@@ -29,16 +36,31 @@ const SecondPage = () => (
       Automatic [宇多田ヒカル]
     </p>
     <p>
-      <iframe width="501" height="282" src="https://www.youtube.com/embed/hSuJ3R7ZKuk?start=4724" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <div class="youtube">
+        <iframe 
+          src="https://www.youtube.com/embed/hSuJ3R7ZKuk?start=4724" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen
+        ></iframe>
+      </div>
     </p>
     <br/>
     <h2>【ゲストたくさん】スタジオからグランドピアノでお送りします！ / 事務員G</h2>
     <p>
       <b>■見どころポインツ</b><br/>
-      シロナ戦(ポケモンDP) / 瀬戸一王
+      シロナ戦(ポケモンDP) / 瀬戸一王<br/>
+      216番道路(ポケモンDP) / 瀬戸一王
     </p>
     <p>
-      <iframe width="501" height="282" src="https://www.youtube.com/embed/YVj3qWC2Hn8?start=5572" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <div class="youtube">
+        <iframe 
+          src="https://www.youtube.com/embed/YVj3qWC2Hn8?start=5572" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen
+        ></iframe>
+      </div>
     </p>
     <br/>
     <h2>【ゲスト：ござ】スタジオからグランドピアノでお送りします！ / 事務員G</h2>
@@ -47,7 +69,14 @@ const SecondPage = () => (
       革命のエチュードを歌ってみた / 事務員G
     </p>
     <p>
-      <iframe width="501" height="282" src="https://www.youtube.com/embed/Rz-TSfEJvfU?start=3818" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <div class="youtube">
+        <iframe 
+          src="https://www.youtube.com/embed/Rz-TSfEJvfU?start=3818" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen
+        ></iframe>
+      </div>
     </p>
     <br/>
   </Layout>
