@@ -3,8 +3,7 @@
 <url> <loc>https://naiwashi.netlify.app/collabo/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://naiwashi.netlify.app/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://naiwashi.netlify.app/link/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://naiwashi.netlify.app/live/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://naiwashi.netlify.app/movie/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://naiwashi.netlify.app/new/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://naiwashi.netlify.app/term/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://naiwashi.netlify.app/using-typescript/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>

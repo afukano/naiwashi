@@ -8,27 +8,27 @@ import SEO from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
-    <h1>ござのプロフィール</h1>
+    <h1>ござの経歴</h1>
     <p>
       Youtubeを中心に活躍するピアノ演奏者「ござ」の非公式ページ。<br/>
       クラシック、ポップス、Jazz、サブカル系(アニソン、ゲーム曲、ボカロ)等、幅広いレパートリー。<br/>
       即興でおこなうラテン風、ボサノバ風、Jazz風等へのアレンジが持ち味。<br/>
       <br/>
       ストリートピアノ動画の再生回数が多いが、<br/>
-      不定期に配信されるYoutube生配信での即興演奏がファンから人気。<br/>
+      不定期に配信されるYoutube顔出しライブ配信での即興演奏がファンから人気。<br/>
       <br/>
-      <a href="https://www.youtube.com/channel/UC2Kb6k-aGIaKxlNPkrdcoHA">Youtubeチャンネルはこちら</a><br/>
-      <a href="https://twitter.com/gprza" target="_blank">Twitterはこちら</a><br/>
+      <a href="https://www.youtube.com/channel/UC2Kb6k-aGIaKxlNPkrdcoHA">Youtubeチャンネル</a>はこちら<br/>
+      <a href="https://twitter.com/gprza" target="_blank">Twitter</a>はこちら<br/>
       <br/>
       Youtubeで活動する以前は<Link to="https://www.nicovideo.jp/user/3359408">ニコニコ動画</Link>にて「あんだば先生」と呼ばれていた。<br/>
       <br/>
       <Link to="https://www.ymm.co.jp/magazine/piano/">月刊ピアノ</Link>にて「ござさんの All that Goza's Piano Arrange」を連載中。<br/>
       <br/>
       編曲した楽譜も販売中。<br/>
-      <Link to="https://mucome.net/profile?id=2690">mucomeはこちら</Link><br/>
-      <Link to="https://store.piascore.com/publishers/1343">Piascoreはこちら</Link><br/>
+      <Link to="https://mucome.net/profile?id=2690">mucome</Link>はこちら<br/>
+      <Link to="https://store.piascore.com/publishers/1343">Piascore</Link>はこちら<br/>
     </p>
-    <h2>本人による自己紹介</h2>
+    <h2>本人による経歴紹介</h2>
     <blockquote class="twitter-tweet">
       <p lang="ja" dir="ltr">
         またフォロワーさんが増えたので自己紹介<br/>

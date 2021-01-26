@@ -7,7 +7,7 @@ import SEO from "../components/seo"
 const SecondPage = () => (
   <Layout>
     <SEO title="What's new" />
-    <h2>最新動画</h2>
+    <h2>ござの最新動画</h2>
     <p>
       <div class="youtube">
         <iframe 
@@ -33,7 +33,7 @@ const SecondPage = () => (
       菊池亮太 主催のピアノ奏者によるライブ配信祭り。<br/>
       通称「ネピフユ」。前回「ネピサマ」に続く第2弾。<br/>
       ■公演日<br/>
-      &nbsp;&nbsp;2021年1月30日（土）<br/>
+      &nbsp;&nbsp;2021年1月30日（土） 20:15～<br/>
       <br/>
       <a href="https://twitter.com/komuro_metal/status/1345695150119403521?s=20">詳細はこちら</a>
     </p>

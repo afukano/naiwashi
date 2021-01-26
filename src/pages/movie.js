@@ -21,7 +21,7 @@ const SecondPage = () => (
     <h3>Tank!(カウボーイビバップ / Cowboy Bebop OP) Piano cover</h3>
     <p>
       <div class="youtube">
-        <iframe 
+        <iframe
           src="https://www.youtube.com/embed/uA2PECsJROA" 
           frameborder="0" 
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
@@ -31,7 +31,16 @@ const SecondPage = () => (
     </p>
     <h3>neu (ニエンテ)を弾いてみた　(piano cover)</h3>
     <p>
-      <Link to="https://www.youtube.com/embed/vs06K1Le5H4">動画はこちら</Link>
+      <iframe
+        width="312" height="176"  
+        src="https://ext.nicovideo.jp/thumb/sm13496819" 
+        scrolling="no" 
+        frameborder="0">
+        <a href="https://www.nicovideo.jp/watch/sm13496819">「neu(ニエンテ)」を弾いてみた</a>
+      </iframe>
+    </p>
+    <p>
+      <Link to="https://www.youtube.com/embed/vs06K1Le5H4">Youtubeバージョンはこちら</Link>
     </p>
     <h3>実況！ジャズピアノソロ！カントリーロード</h3>
     <p>

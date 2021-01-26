@@ -8,7 +8,7 @@ const SecondPage = () => (
   <Layout>
     <SEO title="リンク" />
     <p>
-      <Link to="https://gozapiano.com/">公式ホームページはこちら</Link>
+      <Link to="https://gozapiano.com/">公式ホームページ(ブログ)はこちら</Link>
     </p>
   </Layout>
 )
