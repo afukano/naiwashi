@@ -30,9 +30,9 @@ const Header = ({ siteTitle }) => (
     <br/>
     <nav id="gnav">
       <ul>
-        <li><Link to="/">Home</Link></li>
+        <li><Link to="/">Top</Link></li>
         <li><Link to="/new/">What's new</Link></li>
-        <li><Link to="/movie/">代表曲</Link></li>
+        <li><Link to="/movie/">おすすめ曲</Link></li>
         <li><Link to="/collabo/">コラボ</Link></li>
         <li><Link to="/link/">リンク</Link></li>
       </ul>

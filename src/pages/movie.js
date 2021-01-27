@@ -6,7 +6,8 @@ import SEO from "../components/seo"
 
 const SecondPage = () => (
   <Layout>
-    <SEO title="代表曲" />
+    <SEO title="おすすめ曲" />
+    <h2>おすすめ投稿動画</h2>
     <h3>ルパン三世のテーマ '80 / Lupin the Third '80 (Piano Cover)</h3>
     <p>
       <div class="youtube">
@@ -23,6 +24,17 @@ const SecondPage = () => (
       <div class="youtube">
         <iframe
           src="https://www.youtube.com/embed/uA2PECsJROA" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen
+        ></iframe>
+      </div>
+    </p>
+    <h3>「ヘミソフィア(hemisphere)」を弾いてみた</h3>
+    <p>
+      <div class="youtube">
+        <iframe
+          src="https://www.youtube.com/embed/yZG9LbP0bwg" 
           frameborder="0" 
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
           allowfullscreen

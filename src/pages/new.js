@@ -7,7 +7,8 @@ import SEO from "../components/seo"
 const SecondPage = () => (
   <Layout>
     <SEO title="What's new" />
-    <h2>ござの最新動画</h2>
+    <h2>最新情報</h2>
+    <h3>ござの最新投稿動画</h3>
     <p>
       <div class="youtube">
         <iframe 
@@ -18,7 +19,7 @@ const SecondPage = () => (
         ></iframe>
       </div>
     </p>
-    <h2>NEO PIANO CO.LABO. "Invention" 出演決定！</h2>
+    <h3>NEO PIANO CO.LABO. "Invention" 出演決定！</h3>
     <p>
       話題の配信系ピアニスト「かてぃん」「菊池亮太」「ござ」「けいちゃん」によるコラボライブ第2弾。<br/>
       通称「ねぴらぼ」。<br/>
@@ -28,7 +29,7 @@ const SecondPage = () => (
       <br/>
       <a href="http://neopianoco.jp/">公式サイトはこちら</a>
     </p>
-    <h2>NET PIANO FUYU MATSURI 2021 出演決定！</h2>
+    <h3>NET PIANO FUYU MATSURI 2021 出演決定！</h3>
     <p>
       菊池亮太 主催のピアノ奏者によるライブ配信祭り。<br/>
       通称「ネピフユ」。前回「ネピサマ」に続く第2弾。<br/>
@@ -37,7 +38,7 @@ const SecondPage = () => (
       <br/>
       <a href="https://twitter.com/komuro_metal/status/1345695150119403521?s=20">詳細はこちら</a>
     </p>
-    <h2>NEO PIANO CO.LABO.　完全版　〜副音声付き〜販売中</h2>
+    <h3>NEO PIANO CO.LABO.　完全版　〜副音声付き〜販売中</h3>
     <p>
       2020年7月24日に開催したNEO PIANO CO.LABO.本公演の映像・音源を再編集し新たな映像作品として配信！<br/>
       また、本公演だけでなく、出演者達の副音声verも収録。<br/>
