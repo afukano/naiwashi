@@ -27,7 +27,8 @@ const SecondPage = () => (
       &nbsp;&nbsp;2021年2月11日（木・祝日）<br/>
       &nbsp;&nbsp;18:30開演 / 20:00終演（予定）<br/>
       <br/>
-      <a href="http://neopianoco.jp/">公式サイトはこちら</a>
+      <a href="http://neopianoco.jp/">ねぴらぼ公式サイト</a>はこちら<br/>
+      <a href="https://nepilab-goods.net/">公式グッズ販売サイト</a>はこちら
     </p>
     <h3>NET PIANO FUYU MATSURI 2021 出演決定！</h3>
     <p>
@@ -36,7 +37,7 @@ const SecondPage = () => (
       ■公演日<br/>
       &nbsp;&nbsp;2021年1月30日（土） 20:15～<br/>
       <br/>
-      <a href="https://twitter.com/komuro_metal/status/1345695150119403521?s=20">詳細はこちら</a>
+      <a href="https://twitter.com/komuro_metal/status/1345695150119403521?s=20">ネピフユ詳細</a>はこちら
     </p>
     <h3>NEO PIANO CO.LABO.　完全版　〜副音声付き〜販売中</h3>
     <p>
@@ -47,7 +48,7 @@ const SecondPage = () => (
       &nbsp;&nbsp;カード払い：2020年9月26日(土)17:00〜2021年9月24日(金)23:59まで<br/>
       &nbsp;&nbsp;コンビニ払い：2020年10月6日(火)10:00～2021年9月22日(水)18:00まで<br/>
       <br/>
-      <a href="https://eplus.jp/sf/classic/neopiano">詳細はこちら</a>
+      <a href="https://eplus.jp/sf/classic/neopiano">販売サイト</a>はこちら
     </p>
   </Layout>
 )
