@@ -11,11 +11,12 @@ const IndexPage = () => (
     <h2>経歴(プロフィール)</h2>
     <h3>ござって何者？</h3>
     <p>
-      Youtubeを中心に活躍するピアニスト「ござ」。(本サイトは非公式ホームページです)<br/>
+      Youtubeを中心に活躍するピアニスト「ござ」。(以降、敬称略)<br/>
       クラシック、ポップス、ジャズ、サブカル系(アニソン、ゲーム曲、ボカロ)等、幅広いレパートリー。<br/>
       即興でおこなうジャズ風、ラテン風等へのアレンジが持ち味。<br/>
-      幼少期からピアノに慣れ親しんでいたが大学は音大ではない。<br/>
+      <small>※本サイトは非公式ホームページです</small><br/>
       <br/>
+      幼少期からピアノに慣れ親しんでいたが大学は音大ではない。<br/>
       2009年頃からピアノ動画の投稿を始めている。<br/>
       長らく知る人ぞ知る存在であったが、<br/>
       都庁のストリートピアノで菊池亮太と「丸の内サディスティック」の連弾動画をYoutubeに投稿。<br/>
@@ -27,9 +28,9 @@ const IndexPage = () => (
       ライブ配信中にチャットで弾いてほしい曲をリクエストすると、運が良ければ弾いてもらえる。<br/>
       以前は、ペンギンの被り物をしながら電子ピアノでの配信だったが、最近はグランドピアノで素顔を出して配信することが多い。(ただしマスクはしている)<br/>
       <br/>
-      <a href="https://www.youtube.com/channel/UC2Kb6k-aGIaKxlNPkrdcoHA">Youtubeチャンネル</a>はこちら<br/>
-      <a href="https://twitcasting.tv/gprza/">ツイキャス</a>はこちら<br/>
-      <a href="https://twitter.com/gprza">Twitter</a>はこちら<br/>
+      <Link to="https://www.youtube.com/channel/UC2Kb6k-aGIaKxlNPkrdcoHA">Youtubeチャンネル</Link>はこちら<br/>
+      <Link to="https://twitcasting.tv/gprza/">ツイキャス</Link>はこちら<br/>
+      <Link to="https://twitter.com/gprza">Twitter</Link>はこちら<br/>
       <br/>
       Youtubeで活動する以前は<Link to="https://www.nicovideo.jp/user/3359408">ニコニコ動画</Link>にて「あんだば先生」と呼ばれていた。<br/>
       <br/>

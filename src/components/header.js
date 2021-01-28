@@ -34,6 +34,7 @@ const Header = ({ siteTitle }) => (
         <li><Link to="/new/">What's new</Link></li>
         <li><Link to="/movie/">おすすめ曲</Link></li>
         <li><Link to="/collabo/">コラボ</Link></li>
+        <li><Link to="/live/">ライブ配信</Link></li>
         <li><Link to="/link/">リンク</Link></li>
       </ul>
     </nav>
