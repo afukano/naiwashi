@@ -2,8 +2,10 @@ module.exports = {
   siteMetadata: {
     title: `ござ(ピアノ演奏者)のホームページ`,
     description: `ござ(ピアノ演奏者)。公式HP(ブログ)、楽譜販売、Youtube、Twitterへのリンク等を掲載しています。また最新情報、投稿動画、顔出しライブ放送の情報をご案内しています。(非公式ページです)都庁等のストリートピアノ動画やジャズ等のアレンジが人気のピアニスト。`,
-    author: `@gatsbyjs`,
+    author: `naiwashi817`,
     siteUrl: `https://naiwashi.netlify.app/`,
+    image: `src/images/goza.png`,
+    twitterUsername: `@naiwashi817`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -25,7 +27,7 @@ module.exports = {
         background_color: `#663399`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/goza.png`,
       },
     },
     `gatsby-plugin-twitter`,
