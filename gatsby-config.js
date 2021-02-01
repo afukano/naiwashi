@@ -4,7 +4,7 @@ module.exports = {
     description: `ござ(ピアノ演奏者)。公式HP(ブログ)、楽譜販売、Youtube、Twitterへのリンク等を掲載しています。また最新情報、投稿動画、顔出しライブ放送の情報をご案内しています。(非公式ページです)都庁等のストリートピアノ動画やジャズ等のアレンジが人気のピアニスト。`,
     author: `naiwashi817`,
     siteUrl: `https://naiwashi.netlify.app/`,
-    image: `/icons/icon-48x48.png`,
+    image: `/static/goza.png`,
     twitterUsername: `@naiwashi817`,
   },
   plugins: [
