@@ -8,6 +8,9 @@ const SecondPage = () => (
   <Layout>
     <SEO title="コラボ" />
     <h2>コラボ動画</h2>
+    <p>
+      <Link to="/collabo/talk">雑談動画</Link>
+    </p>
     <h3>【告知あり】なにかとても楽しくなる予感の放送をします【すごいと思う】 / 事務員G</h3>
     <p>
       <b>■見どころポインツ</b><br/>
@@ -59,6 +62,21 @@ const SecondPage = () => (
           src="https://www.youtube.com/embed/YVj3qWC2Hn8?start=5572" 
           frameborder="0" 
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen
+        ></iframe>
+      </div>
+    </p>
+    <br/>
+    <h3>ライブ 眠れないのでピアノ弾きます🐘🎹 #640373180</h3>
+    <p>
+      <b>■見どころポインツ</b><br/>
+      宝島 / ものはっぱ ぜろいち(10:07～)<br/>
+    </p>
+    <p>
+      <div class="youtube">
+        <iframe 
+          src="https://twitcasting.tv/iriirisriri/embeddedplayer/640373180?auto_play=false&default_mute=false" 
+          frameborder="0" 
           allowfullscreen
         ></iframe>
       </div>

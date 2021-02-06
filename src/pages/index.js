@@ -70,6 +70,21 @@ const IndexPage = () => (
         ></iframe>
       </div>
     </p>
+    <h3>使用機材</h3>
+    <p>
+      <ul>
+        <li>
+          Roland FANTOM-8(シンセサイザー)　2020年～
+        </li>
+        <li>
+          Roland FA-08(シンセサイザー)　2015年～2020年
+        </li>
+        <li>
+          YAMAHA YS10(アップライトピアノ)　～2014年頃
+        </li>
+      </ul>
+      &nbsp;&nbsp;&nbsp;&nbsp;<small>※ライブ配信ではレンタルスタジオでグランドピアノも使用する</small>
+    </p>
     <h3>書籍/出版物</h3>
     <p>
       <ul>

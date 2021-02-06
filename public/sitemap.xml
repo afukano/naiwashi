@@ -6,5 +6,6 @@
 <url> <loc>https://naiwashi.netlify.app/live/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://naiwashi.netlify.app/movie/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://naiwashi.netlify.app/new/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://naiwashi.netlify.app/twitter/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://naiwashi.netlify.app/collabo/talk/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://naiwashi.netlify.app/movie/twitter/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
