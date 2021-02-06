@@ -27,18 +27,19 @@ const IndexPage = () => (
       不定期に配信されるYoutube顔出しライブ配信での即興演奏がファンから人気。(稀にツイキャスでも配信する)<br/>
       ライブ配信中にチャットで弾いてほしい曲をリクエストすると、運が良ければ弾いてもらえる。<br/>
       以前は、ペンギンの被り物をしながら電子ピアノでの配信だったが、最近はグランドピアノで素顔を出して配信することが多い。(ただしマスクはしている)<br/>
+      <Link to="/live/">ライブ配信やメンバーシップについて詳細</Link><br/>
       <br/>
-      <Link to="https://www.youtube.com/channel/UC2Kb6k-aGIaKxlNPkrdcoHA">Youtubeチャンネル</Link>はこちら<br/>
-      <Link to="https://twitcasting.tv/gprza/">ツイキャス</Link>はこちら<br/>
-      <Link to="https://twitter.com/gprza">Twitter</Link>はこちら<br/>
+      <Link to="https://www.youtube.com/channel/UC2Kb6k-aGIaKxlNPkrdcoHA" target="_blank">Youtubeチャンネル</Link>はこちら<br/>
+      <Link to="https://twitcasting.tv/gprza/" target="_blank">ツイキャス</Link>はこちら<br/>
+      <Link to="https://twitter.com/gprza" target="_blank">Twitter</Link>はこちら<br/>
       <br/>
-      Youtubeで活動する以前は<Link to="https://www.nicovideo.jp/user/3359408">ニコニコ動画</Link>にて「あんだば先生」と呼ばれていた。<br/>
+      Youtubeで活動する以前は<Link to="https://www.nicovideo.jp/user/3359408" target="_blank">ニコニコ動画</Link>にて「あんだば先生」と呼ばれていた。<br/>
       <br/>
-      <Link to="https://www.ymm.co.jp/magazine/piano/">月刊ピアノ</Link>にて「ござさんの All that Goza's Piano Arrange」を連載中。<br/>
+      <Link to="https://www.ymm.co.jp/magazine/piano/" target="_blank">月刊ピアノ</Link>にて「ござさんの All that Goza's Piano Arrange」を連載中。<br/>
       <br/>
       編曲した楽譜も販売中。<br/>
-      <Link to="https://mucome.net/profile?id=2690">mucome</Link>はこちら<br/>
-      <Link to="https://store.piascore.com/publishers/1343">Piascore</Link>はこちら<br/>
+      <Link to="https://mucome.net/profile?id=2690" target="_blank">mucome</Link>はこちら<br/>
+      <Link to="https://store.piascore.com/publishers/1343" target="_blank">Piascore</Link>はこちら<br/>
     </p>
     <h3>本人による経歴紹介</h3>
     <blockquote class="twitter-tweet">
@@ -74,7 +75,7 @@ const IndexPage = () => (
       <ul>
         <li>
           「総再生数1億回超え！ネットピアニストたちの動画を楽譜にしてみた結果・・・！？」ヤマハミュージックメディア(2020年1月24日発売)<br/>
-          <Link to="https://www.ymm.co.jp/feature/netpianists.php">詳細はこちら</Link>
+          <Link to="https://www.ymm.co.jp/feature/netpianists.php" target="_blank">詳細はこちら</Link>
         </li>
         <li>
         「月刊ピアノ」アレンジ講座連載(2020年1月号～現在)
