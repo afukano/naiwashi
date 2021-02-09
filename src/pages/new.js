@@ -19,6 +19,10 @@ const SecondPage = () => (
         ></iframe>
       </div>
     </p>
+    <h3>「SPICE」にインタビュー記事が掲載されました！</h3>
+    <p>
+      <a href="https://news.merumo.ne.jp/article/genre/10455637" target="_blank">かてぃん・菊池亮太・けいちゃん・ござ、白熱のリハーサルに突撃！　『NEO PIANO CO.LABO.』第二弾“Invention”の見どころは？</a><br/>
+    </p>
     <h3>NEO PIANO CO.LABO. "Invention" 出演決定！</h3>
     <p>
       話題の配信系ピアニスト「かてぃん」「菊池亮太」「ござ」「けいちゃん」によるコラボライブ第2弾。<br/>

@@ -686,3 +686,12 @@ pre tt:after {
   width: 100% !important;
   height: 100% !important;
 }
+
+.youtube2 {
+  height: 18px;
+  color:#cd201f;
+}
+.twitter2 {
+  height: 18px;
+  color:#55acee;
+}

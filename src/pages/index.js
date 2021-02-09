@@ -1,9 +1,15 @@
 import React from "react"
 import { Link } from "gatsby"
 
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { library } from '@fortawesome/fontawesome-svg-core'
+import { fab } from '@fortawesome/free-brands-svg-icons'
+
 import Layout from "../components/layout"
 import Image from "../components/image"
 import SEO from "../components/seo"
+
+library.add(fab)
 
 const IndexPage = () => (
   <Layout>
@@ -29,9 +35,13 @@ const IndexPage = () => (
       以前は、ペンギンの被り物をしながら電子ピアノでの配信だったが、最近はグランドピアノで素顔を出して配信することが多い。(ただしマスクはしている)<br/>
       <Link to="/live/">ライブ配信やメンバーシップについて詳細</Link><br/>
       <br/>
-      <Link to="https://www.youtube.com/channel/UC2Kb6k-aGIaKxlNPkrdcoHA" target="_blank">Youtubeチャンネル</Link>はこちら<br/>
+      <Link to="https://www.youtube.com/channel/UC2Kb6k-aGIaKxlNPkrdcoHA" target="_blank">
+        <FontAwesomeIcon class="youtube2" icon={['fab', 'youtube']} />Youtubeチャンネル
+      </Link>はこちら<br/>
       <Link to="https://twitcasting.tv/gprza/" target="_blank">ツイキャス</Link>はこちら<br/>
-      <Link to="https://twitter.com/gprza" target="_blank">Twitter</Link>はこちら<br/>
+      <Link to="https://twitter.com/gprza" target="_blank">
+        <FontAwesomeIcon class="twitter2" icon={['fab', 'twitter']} />Twitter
+      </Link>はこちら<br/>
       <br/>
       Youtubeで活動する以前は<Link to="https://www.nicovideo.jp/user/3359408" target="_blank">ニコニコ動画</Link>にて「あんだば先生」と呼ばれていた。<br/>
       <br/>
