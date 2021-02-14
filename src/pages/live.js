@@ -13,9 +13,9 @@ const SecondPage = () => (
       <div class="youtube">
         <iframe
           src="https://www.youtube.com/embed/3762IU8rrTg" 
-          frameborder="0" 
+          frameBorder="0" 
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-          allowfullscreen
+          allowFullScreen
         ></iframe>
       </div>
       メンバーシップ未加入でも閲覧可能な、過去にライブ配信された動画。<br/>
@@ -53,6 +53,32 @@ const SecondPage = () => (
       ござがペンギンの被り物をしながらライブ配信していた事があり、ペンギンさんにイワシのエサ代を投げているということから「ナイスイワシ」「ないわし」と呼ばれるようになった。<br/>
       メンバーシップ限定の絵文字にも存在する、公式な単語でもある。<br/>
       一部のメンバーからは1万円以上の高額投げ銭（赤スパ）を「ナイスマグロ」等と呼ばれることもある。<br/>
+    </p>
+    <h3>ござからのお知らせ</h3>
+    <p>
+      <blockquote class="twitter-tweet">
+        <p lang="ja" dir="ltr">
+          【お知らせ】<br/>
+          放送中に寄せられる要望についてですが、大体3種に分けて対応しています。良かったら参考にしてみて下さいね！<br/>
+          ①個人的もしくは演奏とは関係のない要望→全てお受けすると際限がないのでお受けできませんすみません🙇‍♂️<br/>
+          つづく→
+        </p>
+        &mdash; ござ 🎹 (@gprza) 
+        <a href="https://twitter.com/gprza/status/1306804373377314816?ref_src=twsrc%5Etfw">
+          September 18, 2020
+        </a>
+      </blockquote>
+      <blockquote class="twitter-tweet">
+        <p lang="ja" dir="ltr">
+          全ての要望に対して逐一実施しないと不公平が生じるため実施の予定はありませんすみません🙇‍♂️<br/>
+          ③演奏を視聴するという放送の主眼において明らかに合理的と判断できるご要望→実現した結果(合理的かどうかは別として)反対意見や不満でチャット欄の空気が悪くならなそうならばお受けできます<br/>
+          続く→
+        </p>
+        &mdash; ござ 🎹 (@gprza) 
+        <a href="https://twitter.com/gprza/status/1306806587357425664?ref_src=twsrc%5Etfw">
+          September 18, 2020
+        </a>
+      </blockquote>
     </p>
     <h3>過去のライブ配信を見たい</h3>
     <p>

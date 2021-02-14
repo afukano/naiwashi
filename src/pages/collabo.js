@@ -15,14 +15,12 @@ const SecondPage = () => (
     <p>
       <b>■見どころポインツ</b><br/>
       情熱大陸 / かてぃん
-    </p>
-    <p>
       <div class="youtube">
         <iframe 
           src="https://www.youtube.com/embed/GOs0KyBD47A?start=5160" 
-          frameborder="0" 
+          frameBorder="0" 
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-          allowfullscreen
+          allowFullScreen
         ></iframe>
       </div>
     </p>
@@ -38,14 +36,12 @@ const SecondPage = () => (
       悲愴 第2楽章 [ベートーヴェン]<br/>
       トルコ行進曲 [モーツァルト](世界一周アレンジ?)<br/>
       Automatic [宇多田ヒカル]
-    </p>
-    <p>
       <div class="youtube">
         <iframe 
           src="https://www.youtube.com/embed/hSuJ3R7ZKuk?start=4724" 
-          frameborder="0" 
+          frameBorder="0" 
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-          allowfullscreen
+          allowFullScreen
         ></iframe>
       </div>
     </p>
@@ -55,14 +51,12 @@ const SecondPage = () => (
       <b>■見どころポインツ</b><br/>
       シロナ戦(ポケモンDP) / 瀬戸一王<br/>
       216番道路(ポケモンDP) / 瀬戸一王
-    </p>
-    <p>
       <div class="youtube">
         <iframe 
           src="https://www.youtube.com/embed/YVj3qWC2Hn8?start=5572" 
-          frameborder="0" 
+          frameBorder="0" 
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-          allowfullscreen
+          allowFullScreen
         ></iframe>
       </div>
     </p>
@@ -71,13 +65,11 @@ const SecondPage = () => (
     <p>
       <b>■見どころポインツ</b><br/>
       宝島 / ものはっぱ ぜろいち(10:07～)<br/>
-    </p>
-    <p>
       <div class="youtube">
         <iframe 
           src="https://twitcasting.tv/iriirisriri/embeddedplayer/640373180?auto_play=false&default_mute=false" 
-          frameborder="0" 
-          allowfullscreen
+          frameBorder="0" 
+          allowFullScreen
         ></iframe>
       </div>
     </p>
@@ -86,14 +78,12 @@ const SecondPage = () => (
     <p>
       <b>■見どころポインツ</b><br/>
       革命のエチュードを歌ってみた / 事務員G
-    </p>
-    <p>
       <div class="youtube">
         <iframe 
           src="https://www.youtube.com/embed/Rz-TSfEJvfU?start=3818" 
-          frameborder="0" 
+          frameBorder="0" 
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-          allowfullscreen
+          allowFullScreen
         ></iframe>
       </div>
     </p>

@@ -12,6 +12,20 @@ const IndexPage = () => (
     <p>
       <blockquote class="twitter-tweet">
         <p lang="ja" dir="ltr">
+          誇張しすぎた歌謡曲のトランペット 
+          <a href="https://t.co/hVxbosLrIy">
+            pic.twitter.com/hVxbosLrIy
+          </a>
+        </p>
+        &mdash; ござ 🎹 (@gprza) 
+        <a href="https://twitter.com/gprza/status/1358373673216823297?ref_src=twsrc%5Etfw">
+          February 7, 2021
+        </a>
+      </blockquote>
+    </p>
+    <p>
+      <blockquote class="twitter-tweet">
+        <p lang="ja" dir="ltr">
           うっせえわを、うっさくなく弾いてみました。 
           <a href="https://t.co/hQfWJKUkOa">pic.twitter.com/hQfWJKUkOa</a>
         </p>

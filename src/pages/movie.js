@@ -16,9 +16,9 @@ const SecondPage = () => (
       <div class="youtube">
         <iframe 
           src="https://www.youtube.com/embed/mXPXNeLwd1k" 
-          frameborder="0" 
+          frameBorder="0" 
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-          allowfullscreen
+          allowFullScreen
         ></iframe>
       </div>
     </p>
@@ -27,9 +27,9 @@ const SecondPage = () => (
       <div class="youtube">
         <iframe
           src="https://www.youtube.com/embed/uA2PECsJROA" 
-          frameborder="0" 
+          frameBorder="0" 
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-          allowfullscreen
+          allowFullScreen
         ></iframe>
       </div>
     </p>
@@ -39,7 +39,7 @@ const SecondPage = () => (
         width="312" height="176"  
         src="https://ext.nicovideo.jp/thumb/sm13496819" 
         scrolling="no" 
-        frameborder="0">
+        frameBorder="0">
         <a href="https://www.nicovideo.jp/watch/sm13496819">「neu(ニエンテ)」を弾いてみた</a>
       </iframe>
     </p>
@@ -51,9 +51,9 @@ const SecondPage = () => (
       <div class="youtube">
         <iframe
           src="https://www.youtube.com/embed/yZG9LbP0bwg" 
-          frameborder="0" 
+          frameBorder="0" 
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-          allowfullscreen
+          allowFullScreen
         ></iframe>
       </div>
     </p>
@@ -63,7 +63,7 @@ const SecondPage = () => (
         width="312" height="176" 
         src="https://ext.nicovideo.jp/thumb/sm11494784" 
         scrolling="no" 
-        frameborder="0">
+        frameBorder="0">
         <a href="https://www.nicovideo.jp/watch/sm11494784">「Chaining Intention」を弾いてみた</a>
       </iframe>
     </p>
@@ -72,9 +72,9 @@ const SecondPage = () => (
       <div class="youtube">
         <iframe 
           src="https://www.youtube.com/embed/M9zVVhpXw6k" 
-          frameborder="0" 
+          frameBorder="0" 
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-          allowfullscreen
+          allowFullScreen
         ></iframe>
       </div>
     </p>

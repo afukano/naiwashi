@@ -26,8 +26,8 @@ const IndexPage = () => (
       2009年頃からピアノ動画の投稿を始めている。<br/>
       長らく知る人ぞ知る存在であったが、<br/>
       都庁のストリートピアノで菊池亮太と「丸の内サディスティック」の連弾動画をYoutubeに投稿。<br/>
-      その後、それまで働いていた職場を退職しプロ転向を宣言、<br/>
-      ストリートピアノで「Official髭男dism(ヒゲダン)」「ベートーベン」「パプリカ」等を演奏し徐々に知られるようになる。<br/>
+      その後、それまで働いていた職場(介護職)を退職しプロ転向を宣言、<br/>
+      ストリートピアノで「Official髭男dism(ヒゲダン)」「ベートーベン」「パプリカ」「クリスマスメドレー」等を演奏し徐々に知られるようになる。<br/>
       <br/>
       ストリートピアノ動画の再生回数が多いが、<br/>
       不定期に配信されるYoutube顔出しライブ配信での即興演奏がファンから人気。(稀にツイキャスでも配信する)<br/>
@@ -74,9 +74,9 @@ const IndexPage = () => (
       <div class="youtube">
         <iframe  
           src="https://www.youtube.com/embed/FsIOsWyjz7U" 
-          frameborder="0" 
+          frameBorder="0" 
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-          allowfullscreen
+          allowFullScreen
         ></iframe>
       </div>
     </p>
