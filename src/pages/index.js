@@ -22,7 +22,8 @@ const IndexPage = () => (
       即興でおこなうジャズ風、ラテン風等へのアレンジが持ち味。<br/>
       <small>※本サイトは非公式ホームページです</small><br/>
       <br/>
-      幼少期からピアノに慣れ親しんでいたが大学は音大ではない。<br/>
+      幼少期からピアノに慣れ親しんでおり絶対音感の持ち主。<br/>
+      大学は音大ではない。<br/>
       2009年頃からピアノ動画の投稿を始めている。<br/>
       長らく知る人ぞ知る存在であったが、<br/>
       都庁のストリートピアノで菊池亮太と「丸の内サディスティック」の連弾動画をYoutubeに投稿。<br/>
@@ -44,6 +45,8 @@ const IndexPage = () => (
       </Link>はこちら<br/>
       <br/>
       Youtubeで活動する以前は<Link to="https://www.nicovideo.jp/user/3359408" target="_blank">ニコニコ動画</Link>にて「あんだば先生」と呼ばれていた。<br/>
+      即興アレンジが最大の魅力だが、キラキラした音、圧倒的な音数も特徴的。<br/>
+      これは、ずっしー氏が命名した<Link to="https://zussie-piano.com/pse-16beat-paradiddle1/" target="_blank">“Goza-Alternate”（ござオルタネイト）</Link>と呼ばれる奏法によるところも大きい。<br/>
       <br/>
       <Link to="https://www.ymm.co.jp/magazine/piano/" target="_blank">月刊ピアノ</Link>にて「ござさんの All that Goza's Piano Arrange」を連載中。<br/>
       <br/>
