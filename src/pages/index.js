@@ -38,7 +38,6 @@ const IndexPage = () => (
       <Link to="https://www.youtube.com/channel/UC2Kb6k-aGIaKxlNPkrdcoHA" target="_blank">
         Youtubeチャンネル
       </Link>はこちら<br/>
-      <div class="g-ytsubscribe" data-channelid="UC2Kb6k-aGIaKxlNPkrdcoHA" data-layout="full" data-count="default"></div><br/>
       <div class="twitter">
         <a href="https://twitter.com/gprza?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="true">
           Follow @gprza
