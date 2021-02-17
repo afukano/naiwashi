@@ -4,7 +4,6 @@ import { Link } from "gatsby"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { library } from '@fortawesome/fontawesome-svg-core'
 import { fab } from '@fortawesome/free-brands-svg-icons'
-
 import Layout from "../components/layout"
 import Image from "../components/image"
 import SEO from "../components/seo"
@@ -37,16 +36,22 @@ const IndexPage = () => (
       <Link to="/live/">ライブ配信やメンバーシップについて詳細</Link><br/>
       <br/>
       <Link to="https://www.youtube.com/channel/UC2Kb6k-aGIaKxlNPkrdcoHA" target="_blank">
-        <FontAwesomeIcon class="youtube2" icon={['fab', 'youtube']} />Youtubeチャンネル
+        Youtubeチャンネル
       </Link>はこちら<br/>
+      <script src="https://apis.google.com/js/platform.js"></script>
+
+<div class="g-ytsubscribe" data-channelid="UC2Kb6k-aGIaKxlNPkrdcoHA" data-layout="full" data-count="default"></div><br/>
+      <div class="twitter">
+        <a href="https://twitter.com/gprza?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="true">
+          Follow @gprza
+        </a>
+        ござのTwitterをフォローする場合はこちら
+      </div>
       <Link to="https://twitcasting.tv/gprza/" target="_blank">ツイキャス</Link>はこちら<br/>
-      <Link to="https://twitter.com/gprza" target="_blank">
-        <FontAwesomeIcon class="twitter2" icon={['fab', 'twitter']} />Twitter
-      </Link>はこちら<br/>
       <br/>
       Youtubeで活動する以前は<Link to="https://www.nicovideo.jp/user/3359408" target="_blank">ニコニコ動画</Link>にて「あんだば先生」と呼ばれていた。<br/>
       即興アレンジが最大の魅力だが、キラキラした音、圧倒的な音数も特徴的。<br/>
-      これは、ずっしー氏が命名した<Link to="https://zussie-piano.com/pse-16beat-paradiddle1/" target="_blank">“Goza-Alternate”（ござオルタネイト）</Link>と呼ばれる奏法によるところも大きい。<br/>
+      ずっしー氏が命名した<Link to="https://zussie-piano.com/pse-16beat-paradiddle1/" target="_blank">“Goza-Alternate”（ござオルタネイト）</Link>と呼ばれる独特の奏法も持ち味。<br/>
       <br/>
       <Link to="https://www.ymm.co.jp/magazine/piano/" target="_blank">月刊ピアノ</Link>にて「ござさんの All that Goza's Piano Arrange」を連載中。<br/>
       <br/>
@@ -55,7 +60,7 @@ const IndexPage = () => (
       <Link to="https://store.piascore.com/publishers/1343" target="_blank">Piascore</Link>はこちら<br/>
     </p>
     <h3>本人による経歴紹介</h3>
-    <blockquote class="twitter-tweet">
+    <blockquote className="twitter-tweet">
       <p lang="ja" dir="ltr">
         またフォロワーさんが増えたので自己紹介<br/>
         <br/>
@@ -83,7 +88,7 @@ const IndexPage = () => (
         ></iframe>
       </div>
     </p>
-    <h3>使用機材</h3>
+    <h3>使用機材(機種)</h3>
     <p>
       <ul>
         <li>
