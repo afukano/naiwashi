@@ -44,7 +44,7 @@ const SecondPage = () => (
       </iframe>
     </p>
     <p>
-      <Link to="https://www.youtube.com/embed/vs06K1Le5H4" target="_blank">Youtubeバージョンはこちら</Link>
+      <Link to="https://www.youtube.com/embed/vs06K1Le5H4" target="_blank" rel="noopener">Youtubeバージョンはこちら</Link>
     </p>
     <h3>「ヘミソフィア(hemisphere)」を弾いてみた</h3>
     <p>

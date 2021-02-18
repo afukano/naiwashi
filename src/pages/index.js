@@ -35,7 +35,7 @@ const IndexPage = () => (
       以前は、ペンギンの被り物をしながら電子ピアノでの配信だったが、最近はグランドピアノで素顔を出して配信することが多い。(ただしマスクはしている)<br/>
       <Link to="/live/">ライブ配信やメンバーシップについて詳細</Link><br/>
       <br/>
-      <Link to="https://www.youtube.com/channel/UC2Kb6k-aGIaKxlNPkrdcoHA" target="_blank">
+      <Link to="https://www.youtube.com/channel/UC2Kb6k-aGIaKxlNPkrdcoHA" target="_blank" rel="noopener">
         Youtubeチャンネル
       </Link>はこちら<br/>
       <div class="twitter">
@@ -44,17 +44,17 @@ const IndexPage = () => (
         </a>
         ござのTwitterをフォローする場合はこちら
       </div>
-      <Link to="https://twitcasting.tv/gprza/" target="_blank">ツイキャス</Link>はこちら<br/>
+      <Link to="https://twitcasting.tv/gprza/" target="_blank" rel="noopener">ツイキャス</Link>はこちら<br/>
       <br/>
-      Youtubeで活動する以前は<Link to="https://www.nicovideo.jp/user/3359408" target="_blank">ニコニコ動画</Link>にて「あんだば先生」と呼ばれていた。<br/>
+      Youtubeで活動する以前は<Link to="https://www.nicovideo.jp/user/3359408" target="_blank" rel="noopener">ニコニコ動画</Link>にて「あんだば先生」と呼ばれていた。<br/>
       即興アレンジが最大の魅力だが、キラキラした音、圧倒的な音数も特徴的。<br/>
-      ずっしー氏が命名した<Link to="https://zussie-piano.com/pse-16beat-paradiddle1/" target="_blank">“Goza-Alternate”（ござオルタネイト）</Link>と呼ばれる独特の奏法も持ち味。<br/>
+      ずっしー氏が命名した<Link to="https://zussie-piano.com/pse-16beat-paradiddle1/" target rel="noopener">“Goza-Alternate”（ござオルタネイト）</Link>と呼ばれる独特の奏法も持ち味。<br/>
       <br/>
-      <Link to="https://www.ymm.co.jp/magazine/piano/" target="_blank">月刊ピアノ</Link>にて「ござさんの All that Goza's Piano Arrange」を連載中。<br/>
+      <Link to="https://www.ymm.co.jp/magazine/piano/" target="_blank" rel="noopener">月刊ピアノ</Link>にて「ござさんの All that Goza's Piano Arrange」を連載中。<br/>
       <br/>
       編曲した楽譜も販売中。<br/>
-      <Link to="https://mucome.net/profile?id=2690" target="_blank">mucome</Link>はこちら<br/>
-      <Link to="https://store.piascore.com/publishers/1343" target="_blank">Piascore</Link>はこちら<br/>
+      <Link to="https://mucome.net/profile?id=2690" target="_blank" rel="noopener">mucome</Link>はこちら<br/>
+      <Link to="https://store.piascore.com/publishers/1343" target="_blank" rel="noopener">Piascore</Link>はこちら<br/>
     </p>
     <h3>本人による経歴紹介</h3>
     <blockquote className="twitter-tweet">
@@ -105,7 +105,7 @@ const IndexPage = () => (
       <ul>
         <li>
           「総再生数1億回超え！ネットピアニストたちの動画を楽譜にしてみた結果・・・！？」ヤマハミュージックメディア(2020年1月24日発売)<br/>
-          <Link to="https://www.ymm.co.jp/feature/netpianists.php" target="_blank">詳細はこちら</Link>
+          <Link to="https://www.ymm.co.jp/feature/netpianists.php" target="_blank" rel="noopener">詳細はこちら</Link>
         </li>
         <li>
         「月刊ピアノ」アレンジ講座連載(2020年1月号～現在)
