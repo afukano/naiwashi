@@ -19,6 +19,7 @@ const SecondPage = () => (
           frameBorder="0" 
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
           allowFullScreen
+          title="ござ/ルパン三世"
         ></iframe>
       </div>
     </p>
@@ -63,7 +64,8 @@ const SecondPage = () => (
         width="312" height="176" 
         src="https://ext.nicovideo.jp/thumb/sm11494784" 
         scrolling="no" 
-        frameBorder="0">
+        frameBorder="0"
+        title="ござ/ChainingIntention">
         <a href="https://www.nicovideo.jp/watch/sm11494784">「Chaining Intention」を弾いてみた</a>
       </iframe>
     </p>
@@ -75,6 +77,7 @@ const SecondPage = () => (
           frameBorder="0" 
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
           allowFullScreen
+          title="ござ/カントリーロード"
         ></iframe>
       </div>
     </p>

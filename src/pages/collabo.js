@@ -21,6 +21,7 @@ const SecondPage = () => (
           frameBorder="0" 
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
           allowFullScreen
+          title="事務員G/情熱大陸/かてぃん"
         ></iframe>
       </div>
     </p>
@@ -42,6 +43,7 @@ const SecondPage = () => (
           frameBorder="0" 
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
           allowFullScreen
+          title="ござ/Close to You/菊池亮太"
         ></iframe>
       </div>
     </p>
@@ -57,6 +59,7 @@ const SecondPage = () => (
           frameBorder="0" 
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
           allowFullScreen
+          title="事務員G/シロナ戦/瀬戸一王"
         ></iframe>
       </div>
     </p>
@@ -70,6 +73,7 @@ const SecondPage = () => (
           src="https://twitcasting.tv/iriirisriri/embeddedplayer/640373180?auto_play=false&default_mute=false" 
           frameBorder="0" 
           allowFullScreen
+          title="いりす/宝島/ものはっぱ"
         ></iframe>
       </div>
     </p>
@@ -84,6 +88,7 @@ const SecondPage = () => (
           frameBorder="0" 
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
           allowFullScreen
+          title="事務員G/革命のエチュード/事務員G"
         ></iframe>
       </div>
     </p>
