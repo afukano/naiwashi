@@ -13,8 +13,8 @@ library.add(fab)
 const IndexPage = () => (
   <Layout>
     <SEO title="Top" />
-    <h2>経歴(プロフィール)</h2>
-    <h3>ござって何者？</h3>
+    <h2>「ござ」の経歴(プロフィール)</h2>
+    <h3>「ござ」って何者？</h3>
     <p>
       Youtubeを中心に活躍するピアニスト「ござ」。(以降、敬称略)<br/>
       クラシック、ポップス、ジャズ、サブカル系(アニソン、ゲーム曲、ボカロ)等、幅広いレパートリー。<br/>
@@ -70,7 +70,7 @@ const IndexPage = () => (
       <Link to="https://mucome.net/profile?id=2690" target="_blank" rel="noopener">mucome</Link>はこちら<br/>
       <Link to="https://store.piascore.com/publishers/1343" target="_blank" rel="noopener">Piascore</Link>はこちら<br/>
     </p>
-    <h3>本人による経歴紹介</h3>
+    <h3>ござ本人による経歴紹介</h3>
     <blockquote className="twitter-tweet">
       <p lang="ja" dir="ltr">
         またフォロワーさんが増えたので自己紹介<br/>
@@ -115,7 +115,7 @@ const IndexPage = () => (
       </ul>
       &nbsp;&nbsp;&nbsp;&nbsp;<small>※ライブ配信ではレンタルスタジオでグランドピアノも使用する</small>
     </p>
-    <h3>書籍/出版物</h3>
+    <h3>ピアノ書籍/出版物</h3>
     <p>
       <ul>
         <li>
