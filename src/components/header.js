@@ -5,7 +5,9 @@ import React from "react"
 const Header = ({ siteTitle }) => (
   <header
     style={{
-      background: `rebeccapurple`,
+      //background: `rebeccapurple`,
+      //background: 'rgb(115, 193, 118)',
+      background: 'rgb(115, 163, 39)',
       marginBottom: `1.45rem`,
     }}
   >
@@ -24,7 +26,7 @@ const Header = ({ siteTitle }) => (
             textDecoration: `none`,
           }}
         >
-          {siteTitle}
+          ござ(ピアノ演奏者)のホームページ
         </Link>
       </h1>
     <br/>
