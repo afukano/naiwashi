@@ -20,7 +20,11 @@ const SecondPage = () => (
         ></iframe>
       </div>
     </p>
-    <h3>「SPICE」にインタビュー記事が掲載されました！</h3>
+    <h3>「SPICE」にねぴらぼInventionライブレポートが掲載されました</h3>
+    <p>
+      <a href="https://spice.eplus.jp/articles/282828" target="_blank" rel="noopener">かてぃん・菊池亮太・けいちゃん・ござがパワーアップして舞浜に集結！　『NEO PIANO CO.LABO. “Invention”』ライブレポート</a><br/>
+    </p>
+    <h3>「SPICE」にねぴらぼInventionインタビュー記事が掲載されました</h3>
     <p>
       <a href="https://news.merumo.ne.jp/article/genre/10455637" target="_blank" rel="noopener">かてぃん・菊池亮太・けいちゃん・ござ、白熱のリハーサルに突撃！　『NEO PIANO CO.LABO.』第二弾“Invention”の見どころは？</a><br/>
     </p>
@@ -54,6 +58,14 @@ const SecondPage = () => (
       &nbsp;&nbsp;コンビニ払い：2020年10月6日(火)10:00～2021年9月22日(水)18:00まで<br/>
       <br/>
       <a href="https://eplus.jp/sf/classic/neopiano" target="_blank" rel="noopener">販売サイト</a>はこちら
+    </p>
+    <h3>「SPICE」にねぴらぼライブレポートが掲載されました</h3>
+    <p>
+      <a href="https://spice.eplus.jp/articles/273013" target="_blank" rel="noopener">かてぃん×菊池亮太×けいちゃん×ござ　４人のピアニストが魅せた圧巻のステージ！『NEO PIANO CO.LABO.』ライブレポート</a><br/>
+    </p>
+    <h3>「SPICE」にねぴらぼインタビュー記事が掲載されました</h3>
+    <p>
+      <a href="https://spice.eplus.jp/articles/271611" target="_blank" rel="noopener">かてぃん×菊池亮太×けいちゃん×ござ　ストリートピアノ新時代へ～新たなピアノライブを創る『ねぴらぼ』にインタビュー</a><br/>
     </p>
   </Layout>
 )
