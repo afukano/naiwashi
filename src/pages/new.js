@@ -20,6 +20,19 @@ const SecondPage = () => (
         ></iframe>
       </div>
     </p>
+    <h3>PIANIC -STREET PIANO Festival- 出演決定！</h3>
+    <p>
+      YouTubeで活躍するトップピアニストが集結！！<br/>
+      国内最大級のストリートピアノイベント初開催！！<br/>
+      ■公演日<br/>
+      &nbsp;&nbsp;2021年5月8日～5月9日<br/>
+      &nbsp;&nbsp;12:00開演 / 18:00終演<br/>
+      ■場所<br/>
+      &nbsp;&nbsp;河口湖ステラシアター<br/>
+      <br/>
+      <a href="http://pianic.net" target="_blank" rel="noopener">PIANIC公式サイト</a>はこちら<br/>
+      <a href="http://eplus.jp/pianic/" target="_blank" rel="noopener">チケット申込サイト</a>はこちら
+    </p>
     <h3>「SPICE」にねぴらぼInventionライブレポートが掲載されました</h3>
     <p>
       <a href="https://spice.eplus.jp/articles/282828" target="_blank" rel="noopener">かてぃん・菊池亮太・けいちゃん・ござがパワーアップして舞浜に集結！　『NEO PIANO CO.LABO. “Invention”』ライブレポート</a><br/>

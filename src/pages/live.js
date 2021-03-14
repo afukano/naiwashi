@@ -104,6 +104,9 @@ const SecondPage = () => (
       ござファンの有志がアーカイブ案内表を作成したので参考にすると良い。<br/>
       <Link to="https://docs.google.com/spreadsheets/d/1TxDGZI-kCibS4e9OAA1Mukiu4lDwfrHN2quc86nfaIc/edit#gid=413512008" target="_blank" rel="noopener">ござさんアーカイブ案内所</Link><br/>
       <small>Created by <Link to="https://twitter.com/zan_ryur_goza" target="_blank" rel="noopener">ざん</Link></small><br/>
+      また、ござさん演奏回数ランキングも作成されているので、人気曲の目安にすると良い。<br/>
+      <Link to="https://docs.google.com/document/d/e/2PACX-1vSipQ_mM6tbfaMDzLuN9pDXmsiRcsOIDyFOYCFOAUHq3Vi4SBNtZ5rUrbRMKdEN38LVy6Qz1ryiJXgr/pub" target="_blank" rel="noopener">ござさん演奏回数ランキング</Link><br/>
+      <small>Created by <Link to="https://twitter.com/pinksaurs" target="_blank" rel="noopener">pinksaurs</Link></small><br/>
     </p>
   </Layout>
 )
