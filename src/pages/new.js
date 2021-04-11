@@ -27,7 +27,8 @@ const SecondPage = () => (
       &nbsp;&nbsp;2021年5月3日(月・祝) <br/>
       &nbsp;&nbsp;18:00～ 配信開始<br/>
       <br/>
-      <a href="https://eplus.jp/goza/streaming/" target="_blank" rel="noopener">チケット申込サイト</a>はこちら
+      <a href="https://eplus.jp/goza/streaming/" target="_blank" rel="noopener">チケット申込サイト</a>はこちら<br/>
+      <a href="mailto:info-53@liveexsam.co.jp" target="_blank" rel="noopener">公演に関するお問合せ</a>はこちら
     </p>
     <h3>PIANIC -STREET PIANO Festival- 出演決定！</h3>
     <p>
