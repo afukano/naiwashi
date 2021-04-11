@@ -20,6 +20,15 @@ const SecondPage = () => (
         ></iframe>
       </div>
     </p>
+    <h3>ワンマンライブ開催決定！</h3>
+    <p>
+      プロ転向後初となるワンマンライブが開催される。(配信のみ)<br/>
+      ■公演日<br/>
+      &nbsp;&nbsp;2021年5月3日(月・祝) <br/>
+      &nbsp;&nbsp;18:00～ 配信開始<br/>
+      <br/>
+      <a href="https://eplus.jp/goza/streaming/" target="_blank" rel="noopener">チケット申込サイト</a>はこちら
+    </p>
     <h3>PIANIC -STREET PIANO Festival- 出演決定！</h3>
     <p>
       YouTubeで活躍するトップピアニストが集結！！<br/>
