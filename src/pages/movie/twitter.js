@@ -12,6 +12,20 @@ const IndexPage = () => (
     <p>
       <blockquote class="twitter-tweet">
         <p lang="ja" dir="ltr">
+          5月3日のライブ会場での昨日の下見の様子(というかずっとピアノ弾いてた) 
+          <a href="https://t.co/ciHVeimj9n">
+            pic.twitter.com/ciHVeimj9n
+          </a>
+        </p>
+        &mdash; ござ 🎹 (@gprza) 
+        <a href="https://twitter.com/gprza/status/1385447944309018625?ref_src=twsrc%5Etfw">
+          April 23, 2021
+        </a>
+      </blockquote>
+    </p>
+    <p>
+      <blockquote class="twitter-tweet">
+        <p lang="ja" dir="ltr">
           誇張しすぎた歌謡曲のトランペット 
           <a href="https://t.co/hVxbosLrIy">
             pic.twitter.com/hVxbosLrIy
@@ -82,6 +96,67 @@ const IndexPage = () => (
         </p>
         &mdash; ござ 🎹 (@gprza) 
         <a href="https://twitter.com/gprza/status/1311420831063392256?ref_src=twsrc%5Etfw">September 30, 2020</a>
+      </blockquote>
+    </p>
+    <p>
+      <blockquote class="twitter-tweet">
+        <p lang="ja" dir="ltr">
+          納涼ピアノミニコンサート！/ Piano live 2020/08/16 
+          <a href="https://t.co/BF7XzYvP5r">https://t.co/BF7XzYvP5r</a> 
+          <a href="https://twitter.com/YouTube?ref_src=twsrc%5Etfw">@YouTube</a>より 明日21:00よりスペシャルな配信します！無駄に凝ったムービーを作ってしまった🤟 <a href="https://t.co/WaM9n57AnG">pic.twitter.com/WaM9n57AnG</a>
+        </p>
+        &mdash; ござ 🎹 (@gprza) 
+        <a href="https://twitter.com/gprza/status/1294478972382621696?ref_src=twsrc%5Etfw">August 15, 2020</a>
+      </blockquote>
+    </p>
+    <p>
+      <blockquote class="twitter-tweet">
+        <p lang="ja" dir="ltr">
+          ひとりパプリカごっこ 
+          <a href="https://t.co/5PexOfJvhu">pic.twitter.com/5PexOfJvhu</a>
+        </p>
+        &mdash; ござ 🎹 (@gprza) 
+        <a href="https://twitter.com/gprza/status/1293008785414295558?ref_src=twsrc%5Etfw">August 11, 2020</a>
+      </blockquote>
+    </p>
+    <p>
+      <blockquote class="twitter-tweet">
+        <p lang="ja" dir="ltr">
+          テストがてら撮影してたらすごくカッコイイのができそうな予感がしてきたような気がする。 
+          <a href="https://t.co/mr7vIZj1z4">pic.twitter.com/mr7vIZj1z4</a>
+        </p>
+        &mdash; ござ 🎹 (@gprza) 
+        <a href="https://twitter.com/gprza/status/1290907520102354944?ref_src=twsrc%5Etfw">August 5, 2020</a>
+      </blockquote>
+    </p>
+    <p>
+      <blockquote class="twitter-tweet">
+        <p lang="ja" dir="ltr">
+          癒しが欲しかったので癒し系の曲を作ってみました。なんか映像やたら綺麗にできた🤟 
+          <a href="https://t.co/z3pJr5p1aG">pic.twitter.com/z3pJr5p1aG</a>
+        </p>
+        &mdash; ござ 🎹 (@gprza) 
+        <a href="https://twitter.com/gprza/status/1289173826543087617?ref_src=twsrc%5Etfw">July 31, 2020</a>
+      </blockquote>
+    </p>
+    <p>
+      <blockquote class="twitter-tweet">
+        <p lang="ja" dir="ltr">
+          日本の唱歌『夏は来ぬ』のメロディと歌詞が好きすぎて、そのヤバさが伝わるPV的なものを作ってしまいました。歌詞のヤバさ伝われ…！ 
+          <a href="https://t.co/IWVWXaDTdd">pic.twitter.com/IWVWXaDTdd</a>
+        </p>
+        &mdash; ござ 🎹 (@gprza) 
+        <a href="https://twitter.com/gprza/status/1285102293562474496?ref_src=twsrc%5Etfw">July 20, 2020</a>
+      </blockquote>
+    </p>
+    <p>
+      <blockquote class="twitter-tweet">
+        <p lang="ja" dir="ltr">
+          人間に過酷な負担を強いるショパン弾き語り 
+          <a href="https://t.co/wOXgdmzGA4">pic.twitter.com/wOXgdmzGA4</a>
+        </p>
+        &mdash; ござ 🎹 (@gprza) 
+        <a href="https://twitter.com/gprza/status/1278931657995632640?ref_src=twsrc%5Etfw">July 3, 2020</a>
       </blockquote>
     </p>
   </Layout>

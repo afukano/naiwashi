@@ -130,6 +130,10 @@ const IndexPage = () => (
         「月刊ピアノ」アレンジ講座連載(2020年1月号～現在)
         </li>
         <li>
+        「月刊ピアノ」インタビュー掲載(2021年5月号)<br/>
+        <Link to="https://www.ymm.co.jp/p/detail.php?code=GTM01097974" target="_blank" rel="noopener">詳細</Link>はこちら
+        </li>
+        <li>
         「月刊ショパン」 2021年2月号ござ×菊池亮太対談掲載<br/>
         <Link to="https://youtu.be/a7xh3gfaNvE" target="_blank" rel="noopener">対談動画</Link>はこちら
         </li>

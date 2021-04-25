@@ -68,6 +68,7 @@ const SecondPage = () => (
     <p>
       <b>■見どころポインツ</b><br/>
       宝島 / ものはっぱ ぜろいち(10:07～)<br/>
+      <a href="https://twitcasting.tv/iriirisriri/movie/640373180" target="_blank" rel="noopener">再生できない場合はこちらから</a><br/>
       <div class="youtube">
         <iframe 
           src="https://twitcasting.tv/iriirisriri/embeddedplayer/640373180?auto_play=false&default_mute=false" 
