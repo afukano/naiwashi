@@ -27,6 +27,8 @@ const SecondPage = () => (
     <p>
       <Link to="https://docs.google.com/spreadsheets/d/1TxDGZI-kCibS4e9OAA1Mukiu4lDwfrHN2quc86nfaIc/edit#gid=413512008" target="_blank" rel="noopener">ござさんアーカイブ案内所</Link><br/>
       <small>Created by <Link to="https://twitter.com/zan_ryur_goza">ざん</Link></small><br/>
+      <Link to="https://docs.google.com/document/d/e/2PACX-1vSipQ_mM6tbfaMDzLuN9pDXmsiRcsOIDyFOYCFOAUHq3Vi4SBNtZ5rUrbRMKdEN38LVy6Qz1ryiJXgr/pub" target="_blank" rel="noopener">ござさん演奏回数ランキング</Link><br/>
+      <small>Created by <Link to="https://twitter.com/pinksaurs">pinksaurs</Link></small><br/>
     </p>
     <h3>管理人</h3>
     <p>
