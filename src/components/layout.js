@@ -12,6 +12,15 @@ import { useStaticQuery, graphql } from "gatsby"
 import Header from "./header"
 import "./layout.css"
 
+import {
+  FacebookShareButton,
+  FacebookIcon,
+  TwitterShareButton,
+  TwitterIcon,
+  LineShareButton,
+  LineIcon,
+} from "react-share";
+
 const Layout = ({ children }) => {
   const data = useStaticQuery(graphql`
     query SiteTitleQuery {
@@ -37,6 +46,18 @@ const Layout = ({ children }) => {
         <footer style={{
           marginTop: `2rem`
         }}>
+          <TwitterShareButton url="https://naiwashi.netlify.app/" title="ござのホームページ(非公式)">
+            <TwitterIcon size="40" round />
+          </TwitterShareButton>
+          &nbsp;
+          <LineShareButton url="https://naiwashi.netlify.app/">
+            <LineIcon size="40" round />
+          </LineShareButton>
+          &nbsp;
+          <FacebookShareButton url="https://naiwashi.netlify.app/">
+            <FacebookIcon size="40" round />
+          </FacebookShareButton>
+          <br/>
           © {new Date().getFullYear()}, Built with
           {` `}
           <a href="https://www.gatsbyjs.com">Gatsby</a>

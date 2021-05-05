@@ -20,6 +20,10 @@ const SecondPage = () => (
         ></iframe>
       </div>
     </p>
+    <h3>「BARKS」にPIANIC -STREET PIANO Festival- インタビュー記事が掲載されました</h3>
+    <p>
+      <a href="https://www.barks.jp/news/?id=1000200911" target="_blank" rel="noopener">【インタビュー】けいちゃん＆ござ＆さなゑちゃん＆ハラミちゃん＆よみぃが語る、ストリートピアノ</a><br/>
+    </p>
     <h3>ワンマンライブ開催決定！</h3>
     <p>
       プロ転向後初となるワンマンライブが開催される。(配信のみ)<br/>
