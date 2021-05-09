@@ -41,38 +41,50 @@ const IndexPage = () => (
       <small>※この頃、菊池亮太氏から「ござさんの手は国宝だから」と言われた</small><br/>
       ストリートピアノで「Official髭男dism(ヒゲダン)」「ベートーヴェンメドレー」「パプリカ」「クリスマスメドレー」等を演奏し徐々に知られるようになる。<br/>
       <br/>
+      <ul class="tag">
+        <li><Link to="https://www.youtube.com/channel/UC2Kb6k-aGIaKxlNPkrdcoHA" target="_blank" rel="noopener">ござのYoutubeチャンネル</Link></li>
+        <li><div class="twitter">
+          <a href="https://twitter.com/gprza?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="true">
+            Follow @gprza
+          </a>
+        </div></li>
+        <li><Link to="https://twitcasting.tv/gprza/" target="_blank" rel="noopener">ござのツイキャス</Link></li>
+      </ul>
+      <br/>
       ストリートピアノ動画の再生回数が多いが、<br/>
       不定期に配信されるYoutube顔出しライブ配信での即興演奏がファンから人気。(稀にツイキャスでも配信する)<br/>
       ライブ配信中にチャットで弾いてほしい曲をリクエストすると、運が良ければ弾いてもらえる。<br/>
       以前は、自宅でペンギンの被り物をしながら電子ピアノでの配信が多かったが、最近はグランドピアノで素顔を出して配信することが多い。(ただしマスクはしている)<br/>
-      <Link to="/live/">ライブ配信やメンバーシップについて詳細</Link><br/>
+      <ul class="tag">
+        <li><Link to="/live/">ライブ配信やメンバーシップについて詳細</Link></li>
+      </ul>
       即興アレンジが最大の魅力だが、キラキラした音、圧倒的な音数も特徴的。<br/>
-      ずっしー氏が命名した<Link to="https://zussie-piano.com/pse-16beat-paradiddle1/" target rel="noopener">“Goza-Alternate”（ござオルタネイト）</Link>と呼ばれる独特の奏法を用いる。<br/>
+      ずっしー氏が命名した“Goza-Alternate”（ござオルタネイト）と呼ばれる独特の奏法を用いる。<br/>
+      <ul class="tag">
+        <li><Link to="https://zussie-piano.com/pse-16beat-paradiddle1/" target rel="noopener">Goza-Alternate について</Link></li>
+      </ul>
       <br/>
-      <Link to="https://www.youtube.com/channel/UC2Kb6k-aGIaKxlNPkrdcoHA" target="_blank" rel="noopener">
-        Youtubeチャンネル
-      </Link>はこちら<br/>
-      <div class="twitter">
-        <a href="https://twitter.com/gprza?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="true">
-          Follow @gprza
-        </a>
-        ござのTwitterをフォローする場合はこちら
-      </div>
-      <Link to="https://twitcasting.tv/gprza/" target="_blank" rel="noopener">ツイキャス</Link>はこちら<br/>
-      <br/>
-      Youtubeで活動する以前は<Link to="https://www.nicovideo.jp/user/3359408" target="_blank" rel="noopener">ニコニコ動画</Link>にて「あんだば先生」と呼ばれていた。<br/>
+      Youtubeで活動する以前はニコニコ動画にて「あんだば先生」と呼ばれていた。<br/>
       これは投稿者の名前が「_」(アンダーバー)だったため、視聴者から親しみを込めて「あんだば先生」と呼ばれるようになった。<br/>
       その後、新しい名前の投票が行われ「ござ」と「セロニアス」から「ござにあす」に改名し、通称「ござ」と呼ばれることに至った。<br/>
-      「あんだば先生」時代の動画は<Link to="http://www.nicozon.net/tag/%E3%81%82%E3%82%93%E3%81%A0%E3%81%B0%E5%85%88%E7%94%9F/f/a" target="_blank" rel="noopener">こちら</Link>に多く残っている。<br/>
+      <ul class="tag">
+        <li><Link to="https://www.nicovideo.jp/user/3359408" target="_blank" rel="noopener">ござのアカウント(ニコニコ動画)</Link></li>
+        <li><Link to="http://www.nicozon.net/tag/%E3%81%82%E3%82%93%E3%81%A0%E3%81%B0%E5%85%88%E7%94%9F/f/a" target="_blank" rel="noopener">「あんだば先生」の動画</Link></li>
+      </ul>
       <br/>
       Youtubeチャンネルのアイコンはネズミだがこれは特に意味はない。<br/>
       イラスト作成を依頼する際、強いて言えばござは何に似ているか？と聞いた回答がネズミだったため。<br/>
       <br/>
-      <Link to="https://www.ymm.co.jp/magazine/piano/" target="_blank" rel="noopener">月刊ピアノ</Link>にて「ござさんの All that Goza's Piano Arrange」を連載中。<br/>
+      月刊ピアノにて「ござさんの All that Goza's Piano Arrange」を連載中。<br/>
+      <ul class="tag">
+        <li><Link to="https://www.ymm.co.jp/magazine/piano/" target="_blank" rel="noopener">月刊ピアノ</Link></li>
+      </ul>
       <br/>
       編曲した楽譜も販売中。<br/>
-      <Link to="https://mucome.net/profile?id=2690" target="_blank" rel="noopener">mucome</Link>はこちら<br/>
-      <Link to="https://store.piascore.com/publishers/1343" target="_blank" rel="noopener">Piascore</Link>はこちら<br/>
+      <ul class="tag">
+        <li><Link to="https://mucome.net/profile?id=2690" target="_blank" rel="noopener">mucome</Link>はこちら</li>
+        <li><Link to="https://store.piascore.com/publishers/1343" target="_blank" rel="noopener">Piascore</Link>はこちら</li>
+      </ul>
     </p>
     <h3>ござ本人による経歴紹介</h3>
     <blockquote className="twitter-tweet">
@@ -106,7 +118,7 @@ const IndexPage = () => (
     </p>
     <h3>使用機材(機種)</h3>
     <p>
-      <ul>
+      <ul class="list">
         <li>
           Roland FANTOM-8(シンセサイザー)　2020年～
         </li>
@@ -121,7 +133,7 @@ const IndexPage = () => (
     </p>
     <h3>ピアノ書籍/出版物</h3>
     <p>
-      <ul>
+      <ul class="list">
         <li>
           「総再生数1億回超え！ネットピアニストたちの動画を楽譜にしてみた結果・・・！？」ヤマハミュージックメディア(2020年1月24日発売)<br/>
           <Link to="https://www.ymm.co.jp/feature/netpianists.php" target="_blank" rel="noopener">詳細</Link>はこちら

@@ -15,7 +15,9 @@ const SecondPage = () => (
       日付：2020/12/19<br/>
       <b>■見どころポインツ</b><br/>
       フィギュアスケート風ピアノ解説 / いりす けいちゃん 菊池亮太 事務員G <br/>
-      <a href="https://twitcasting.tv/iriirisriri/movie/657202568" target="_blank" rel="noopener">再生できない場合はこちらから</a><br/>
+      <ul class="tag">
+        <li><a href="https://twitcasting.tv/iriirisriri/movie/657202568" target="_blank" rel="noopener">再生できない場合はこちらから</a></li>
+      </ul>
       <div class="youtube">
         <iframe 
           src="https://twitcasting.tv/iriirisriri/embeddedplayer/657202568?auto_play=false&default_mute=false" 
@@ -31,7 +33,9 @@ const SecondPage = () => (
       リンク元：ツイキャス<br/>
       投稿者：いりす<br/>
       日付：2020/06/08<br/>
-      <a href="https://twitcasting.tv/iriirisriri/movie/620679803" target="_blank" rel="noopener">再生できない場合はこちらから</a><br/>
+      <ul class="tag">
+        <li><a href="https://twitcasting.tv/iriirisriri/movie/620679803" target="_blank" rel="noopener">再生できない場合はこちらから</a></li>
+      </ul>
       <div class="youtube">
         <iframe 
           src="https://twitcasting.tv/iriirisriri/embeddedplayer/620679803?auto_play=false&default_mute=false" 
@@ -47,7 +51,9 @@ const SecondPage = () => (
       リンク元：ツイキャス<br/>
       投稿者：いりす<br/>
       日付：2020/05/08<br/>
-      <a href="https://twitcasting.tv/iriirisriri/movie/612965835" target="_blank" rel="noopener">再生できない場合はこちらから</a><br/>
+      <ul class="tag">
+        <li><a href="https://twitcasting.tv/iriirisriri/movie/612965835" target="_blank" rel="noopener">再生できない場合はこちらから</a></li>
+      </ul>
       <div class="youtube">
         <iframe 
           src="https://twitcasting.tv/iriirisriri/embeddedplayer/612965835?auto_play=false&default_mute=false" 
@@ -62,7 +68,9 @@ const SecondPage = () => (
       リンク元：ツイキャス<br/>
       投稿者：いりす<br/>
       日付：2020/04/22<br/>
-      <a href="https://twitcasting.tv/iriirisriri/movie/608436682" target="_blank" rel="noopener">再生できない場合はこちらから</a><br/>
+      <ul class="tag">
+        <li><a href="https://twitcasting.tv/iriirisriri/movie/608436682" target="_blank" rel="noopener">再生できない場合はこちらから</a></li>
+      </ul>
       <div class="youtube">
         <iframe 
           src="https://twitcasting.tv/iriirisriri/embeddedplayer/608436682?auto_play=false&default_mute=false" 

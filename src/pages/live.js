@@ -30,9 +30,10 @@ const SecondPage = () => (
     <p>
       ライブ配信は不定期。突然始まることも稀にある。<br/>
       Youtubeチャンネルの通知をONにしておけば開始時に知ることもできるが直前になりがち。<br/>
-      <a href="https://www.youtube.com/channel/UC2Kb6k-aGIaKxlNPkrdcoHA" target="_blank" rel="noopener">Youtubeチャンネル</a>はこちら<br/>
-      【参考ページ】<Link to="https://weekly.ascii.jp/elem/000/001/634/1634383/" target="_blank" rel="noopener">YouTube「チャンネル登録」「通知設定」をする意味とメリット</Link><br/>
-      <br/>
+      <ul class="tag">
+        <li><a href="https://www.youtube.com/channel/UC2Kb6k-aGIaKxlNPkrdcoHA" target="_blank" rel="noopener">ござのYoutubeチャンネル</a></li>
+        <li>【参考ページ】<Link to="https://weekly.ascii.jp/elem/000/001/634/1634383/" target="_blank" rel="noopener">YouTube「チャンネル登録」「通知設定」をする意味とメリット</Link></li>
+      </ul>
       そこで、ござのTwitterアカウントをフォローし、通知設定をONにしておくことをおすすめする。<br/>
       <blockquote class="twitter-tweet">
         <p lang="ja" dir="ltr">
@@ -44,7 +45,9 @@ const SecondPage = () => (
         </a>
       </blockquote>
       遅くともライブ配信の数時間前には、ライブ配信をする旨ツイートしてくれる。<br/>
-      <a href="https://twitter.com/gprza" target="_blank" rel="noopener">Twitter</a>はこちら<br/>
+      <ul class="tag">
+        <li><a href="https://twitter.com/gprza" target="_blank" rel="noopener">ござのTwitterアカウント</a></li>
+      </ul>
     </p>
     <h3>ないわし？</h3>
     <p>
@@ -89,24 +92,32 @@ const SecondPage = () => (
     <h3>メンバーシップに加入したい</h3>
     <p>
       メンバーシップの内容は以下の通り。<br/>
-      <ul>
+      <ul class="list">
         <li>お菓子プラン(SnackPlan) ￥490/月  過去一ヶ月間のアーカイブを視聴可能。</li>
         <li>ラーメンプラン(FoodPlan) ￥990/月  全てのアーカイブを視聴可能。</li>
         <li>グランドピアノプラン GrandPianoPlan ￥2,990/月  ラーメンプランと同じ。いっぱい応援したい人向け。</li>
       </ul>
       メンバーシップへの加入方法は以下を参照すると良い。<br/>
-      【参考ページ】<Link to="https://news.mynavi.jp/article/20201130-1350177/" target="_blank" rel="noopener">YouTube メンバーシップとは? 支払い方法や退会方法を解説</Link><br/>
+      <ul class="tag">
+        <li>【参考ページ】<Link to="https://news.mynavi.jp/article/20201130-1350177/" target="_blank" rel="noopener">YouTube メンバーシップとは? 支払い方法や退会方法を解説</Link></li>
+      </ul>
       ただし、iPhoneの場合は手順がやや複雑なため注意が必要。<br/>
-      【参考ページ】<Link to="https://did2memo.net/2019/09/02/youtube-channel-member-iphone/" target="_blank" rel="noopener">YouTube メンバーシップとは? 【YouTube】iPhoneからチャンネルの「メンバー登録」をする手順（メンバーになるボタンが表示されない問題の対策）</Link><br/>
+      <ul class="tag">
+        <li>【参考ページ】<Link to="https://did2memo.net/2019/09/02/youtube-channel-member-iphone/" target="_blank" rel="noopener">YouTube メンバーシップとは? 【YouTube】iPhoneからチャンネルの「メンバー登録」をする手順（メンバーになるボタンが表示されない問題の対策）</Link></li>
+      </ul>
     </p>
     <h3>どこにどんな配信動画があるの？</h3>
     <p>
       ござファンの有志がアーカイブ案内表を作成したので参考にすると良い。<br/>
-      <Link to="https://docs.google.com/spreadsheets/d/1TxDGZI-kCibS4e9OAA1Mukiu4lDwfrHN2quc86nfaIc/edit#gid=413512008" target="_blank" rel="noopener">ござさんアーカイブ案内所</Link><br/>
-      <small>Created by <Link to="https://twitter.com/zan_ryur_goza" target="_blank" rel="noopener">ざん</Link></small><br/>
+      <ul class="tag">
+        <li><Link to="https://docs.google.com/spreadsheets/d/1TxDGZI-kCibS4e9OAA1Mukiu4lDwfrHN2quc86nfaIc/edit#gid=413512008" target="_blank" rel="noopener">ござさんアーカイブ案内所</Link><br/>
+        <small>Created by <Link to="https://twitter.com/zan_ryur_goza" target="_blank" rel="noopener">ざん</Link></small></li>
+      </ul>
       また、ござさん演奏回数ランキングも作成されているので、人気曲の目安にすると良い。<br/>
-      <Link to="https://docs.google.com/document/d/e/2PACX-1vSipQ_mM6tbfaMDzLuN9pDXmsiRcsOIDyFOYCFOAUHq3Vi4SBNtZ5rUrbRMKdEN38LVy6Qz1ryiJXgr/pub" target="_blank" rel="noopener">ござさん演奏回数ランキング</Link><br/>
-      <small>Created by <Link to="https://twitter.com/pinksaurs" target="_blank" rel="noopener">pinksaurs</Link></small><br/>
+      <ul class="tag">
+        <li><Link to="https://docs.google.com/document/d/e/2PACX-1vSipQ_mM6tbfaMDzLuN9pDXmsiRcsOIDyFOYCFOAUHq3Vi4SBNtZ5rUrbRMKdEN38LVy6Qz1ryiJXgr/pub" target="_blank" rel="noopener">ござさん演奏回数ランキング</Link><br/>
+        <small>Created by <Link to="https://twitter.com/pinksaurs" target="_blank" rel="noopener">pinksaurs</Link></small></li>
+      </ul>
     </p>
   </Layout>
 )

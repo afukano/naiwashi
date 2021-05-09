@@ -9,7 +9,9 @@ const SecondPage = () => (
     <SEO title="コラボ" />
     <h2>コラボ動画</h2>
     <p>
-      <Link to="/collabo/talk">雑談動画</Link>
+      <ul class="tag">
+        <li><Link to="/collabo/talk">雑談動画</Link></li>
+      </ul>
     </p>
     <h3>【告知あり】なにかとても楽しくなる予感の放送をします【すごいと思う】 / 事務員G</h3>
     <p>
@@ -68,7 +70,9 @@ const SecondPage = () => (
     <p>
       <b>■見どころポインツ</b><br/>
       宝島 / ものはっぱ ぜろいち(10:07～)<br/>
-      <a href="https://twitcasting.tv/iriirisriri/movie/640373180" target="_blank" rel="noopener">再生できない場合はこちらから</a><br/>
+      <ul class="tag">
+        <li><a href="https://twitcasting.tv/iriirisriri/movie/640373180" target="_blank" rel="noopener">再生できない場合はこちらから</a></li>
+      </ul>
       <div class="youtube">
         <iframe 
           src="https://twitcasting.tv/iriirisriri/embeddedplayer/640373180?auto_play=false&default_mute=false" 

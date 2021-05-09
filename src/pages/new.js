@@ -22,7 +22,9 @@ const SecondPage = () => (
     </p>
     <h3>「BARKS」にPIANIC -STREET PIANO Festival- インタビュー記事が掲載されました</h3>
     <p>
-      <a href="https://www.barks.jp/news/?id=1000200911" target="_blank" rel="noopener">【インタビュー】けいちゃん＆ござ＆さなゑちゃん＆ハラミちゃん＆よみぃが語る、ストリートピアノ</a><br/>
+      <ul class="tag">
+        <li><a href="https://www.barks.jp/news/?id=1000200911" target="_blank" rel="noopener">【インタビュー】けいちゃん＆ござ＆さなゑちゃん＆ハラミちゃん＆よみぃが語る、ストリートピアノ</a></li>
+      </ul>
     </p>
     <h3>ワンマンライブ開催決定！</h3>
     <p>
@@ -31,8 +33,10 @@ const SecondPage = () => (
       &nbsp;&nbsp;2021年5月3日(月・祝) <br/>
       &nbsp;&nbsp;18:00～ 配信開始<br/>
       <br/>
-      <a href="https://eplus.jp/goza/streaming/" target="_blank" rel="noopener">チケット申込サイト</a>はこちら<br/>
-      <a href="mailto:info-53@liveexsam.co.jp" target="_blank" rel="noopener">公演に関するお問合せ</a>はこちら
+      <ul class="tag">
+        <li><a href="https://eplus.jp/goza/streaming/" target="_blank" rel="noopener">チケット申込サイト</a></li>
+        <li><a href="mailto:info-53@liveexsam.co.jp" target="_blank" rel="noopener">公演に関するお問合せ</a></li>
+      </ul>
     </p>
     <h3>PIANIC -STREET PIANO Festival- 出演決定！</h3>
     <p>
@@ -44,16 +48,22 @@ const SecondPage = () => (
       ■場所<br/>
       &nbsp;&nbsp;河口湖ステラシアター<br/>
       <br/>
-      <a href="http://pianic.net" target="_blank" rel="noopener">PIANIC公式サイト</a>はこちら<br/>
-      <a href="http://eplus.jp/pianic/" target="_blank" rel="noopener">チケット申込サイト</a>はこちら
+      <ul class="tag">
+        <li><a href="http://pianic.net" target="_blank" rel="noopener">PIANIC公式サイト</a></li>
+        <li><a href="http://eplus.jp/pianic/" target="_blank" rel="noopener">チケット申込サイト</a></li>
+      </ul>
     </p>
     <h3>「SPICE」にねぴらぼInventionライブレポートが掲載されました</h3>
     <p>
-      <a href="https://spice.eplus.jp/articles/282828" target="_blank" rel="noopener">かてぃん・菊池亮太・けいちゃん・ござがパワーアップして舞浜に集結！　『NEO PIANO CO.LABO. “Invention”』ライブレポート</a><br/>
+      <ul class="tag">
+        <li><a href="https://spice.eplus.jp/articles/282828" target="_blank" rel="noopener">かてぃん・菊池亮太・けいちゃん・ござがパワーアップして舞浜に集結！　『NEO PIANO CO.LABO. “Invention”』ライブレポート</a></li>
+      </ul>
     </p>
     <h3>「SPICE」にねぴらぼInventionインタビュー記事が掲載されました</h3>
     <p>
-      <a href="https://news.merumo.ne.jp/article/genre/10455637" target="_blank" rel="noopener">かてぃん・菊池亮太・けいちゃん・ござ、白熱のリハーサルに突撃！　『NEO PIANO CO.LABO.』第二弾“Invention”の見どころは？</a><br/>
+      <ul class="tag">
+        <li><a href="https://news.merumo.ne.jp/article/genre/10455637" target="_blank" rel="noopener">かてぃん・菊池亮太・けいちゃん・ござ、白熱のリハーサルに突撃！　『NEO PIANO CO.LABO.』第二弾“Invention”の見どころは？</a></li>
+      </ul>
     </p>
     <h3>NEO PIANO CO.LABO. "Invention" 出演決定！</h3>
     <p>
@@ -63,8 +73,10 @@ const SecondPage = () => (
       &nbsp;&nbsp;2021年2月11日（木・祝日）<br/>
       &nbsp;&nbsp;18:30開演 / 20:00終演（予定）<br/>
       <br/>
-      <a href="http://neopianoco.jp/" target="_blank" rel="noopener">ねぴらぼ公式サイト</a>はこちら<br/>
-      <a href="https://nepilab-goods.net/" target="_blank" rel="noopener">公式グッズ販売サイト</a>はこちら
+      <ul class="tag">
+        <li><a href="http://neopianoco.jp/" target="_blank" rel="noopener">ねぴらぼ公式サイト</a></li>
+        <li><a href="https://nepilab-goods.net/" target="_blank" rel="noopener">公式グッズ販売サイト</a></li>
+      </ul>
     </p>
     <h3>NET PIANO FUYU MATSURI 2021 出演決定！</h3>
     <p>
@@ -73,7 +85,9 @@ const SecondPage = () => (
       ■公演日<br/>
       &nbsp;&nbsp;2021年1月30日（土） 20:15～<br/>
       <br/>
-      <a href="https://twitter.com/komuro_metal/status/1345695150119403521?s=20" target="_blank" rel="noopener">ネピフユ詳細</a>はこちら
+      <ul class="tag">
+        <li><a href="https://twitter.com/komuro_metal/status/1345695150119403521?s=20" target="_blank" rel="noopener">ネピフユ詳細</a></li>
+      </ul>
     </p>
     <h3>NEO PIANO CO.LABO.　完全版　〜副音声付き〜販売中</h3>
     <p>
@@ -84,15 +98,21 @@ const SecondPage = () => (
       &nbsp;&nbsp;カード払い：2020年9月26日(土)17:00〜2021年9月24日(金)23:59まで<br/>
       &nbsp;&nbsp;コンビニ払い：2020年10月6日(火)10:00～2021年9月22日(水)18:00まで<br/>
       <br/>
-      <a href="https://eplus.jp/sf/classic/neopiano" target="_blank" rel="noopener">販売サイト</a>はこちら
+      <ul class="tag">
+        <li><a href="https://eplus.jp/sf/classic/neopiano" target="_blank" rel="noopener">販売サイト</a></li>
+      </ul>
     </p>
     <h3>「SPICE」にねぴらぼライブレポートが掲載されました</h3>
     <p>
-      <a href="https://spice.eplus.jp/articles/273013" target="_blank" rel="noopener">かてぃん×菊池亮太×けいちゃん×ござ　４人のピアニストが魅せた圧巻のステージ！『NEO PIANO CO.LABO.』ライブレポート</a><br/>
+      <ul class="tag">
+        <li><a href="https://spice.eplus.jp/articles/273013" target="_blank" rel="noopener">かてぃん×菊池亮太×けいちゃん×ござ　４人のピアニストが魅せた圧巻のステージ！『NEO PIANO CO.LABO.』ライブレポート</a></li>
+      </ul>
     </p>
     <h3>「SPICE」にねぴらぼインタビュー記事が掲載されました</h3>
     <p>
-      <a href="https://spice.eplus.jp/articles/271611" target="_blank" rel="noopener">かてぃん×菊池亮太×けいちゃん×ござ　ストリートピアノ新時代へ～新たなピアノライブを創る『ねぴらぼ』にインタビュー</a><br/>
+      <ul class="tag">
+        <li><a href="https://spice.eplus.jp/articles/271611" target="_blank" rel="noopener">かてぃん×菊池亮太×けいちゃん×ござ　ストリートピアノ新時代へ～新たなピアノライブを創る『ねぴらぼ』にインタビュー</a></li>
+      </ul>
     </p>
   </Layout>
 )

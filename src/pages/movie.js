@@ -9,7 +9,9 @@ const SecondPage = () => (
     <SEO title="おすすめ曲" />
     <h2>おすすめ投稿動画</h2>
     <p>
-      <Link to="/movie/twitter">Twitterのみの投稿動画</Link>
+      <ul class="tag">
+        <li><Link to="/movie/twitter">Twitterのみの投稿動画</Link></li>
+      </ul>
     </p>
     <h3>ルパン三世のテーマ '80 / Lupin the Third '80 (Piano Cover)</h3>
     <p>
