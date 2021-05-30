@@ -20,6 +20,23 @@ const SecondPage = () => (
         ></iframe>
       </div>
     </p>
+    <h3>NEO PIANO CO.LABO. “Invention”〜完全版〜　副音声付き　販売決定</h3>
+    <p>
+      2021年2月11日に開催された公演を参加者の副音声付きに編集してお届けします！<br/>
+      ※副音声なしでもお楽しみいただけます<br/>
+      ■チケット販売期間<br/>
+      &nbsp;&nbsp;2021年6月12日（土）17:00〜2022年6月10日（金）22:00<br/>
+      ■アーカイブ期間<br/>
+      &nbsp;&nbsp;〜2022年6月11日（土）23:59<br/>
+      ■料金<br/>
+      &nbsp;&nbsp;視聴チケット：3,000円（税込）<br/>
+      &nbsp;&nbsp;リピーターズチケット：2,000円（税込）<br/>
+      <br/>
+      <ul class="tag">
+        <li><a href="http://neopianoco.jp/" target="_blank" rel="noopener">ねぴらぼ公式サイト</a></li>
+        <li><a href="mailto:info_neopiano@eplus.co.jp" target="_blank" rel="noopener">お問い合わせ</a></li>
+      </ul>
+    </p>
     <h3>「BARKS」にPIANIC -STREET PIANO Festival- インタビュー記事が掲載されました</h3>
     <p>
       <ul class="tag">

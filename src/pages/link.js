@@ -34,6 +34,8 @@ const SecondPage = () => (
         <small>Created by <Link to="https://twitter.com/zan_ryur_goza">ざん</Link></small></li>
         <li><Link to="https://docs.google.com/document/d/e/2PACX-1vSipQ_mM6tbfaMDzLuN9pDXmsiRcsOIDyFOYCFOAUHq3Vi4SBNtZ5rUrbRMKdEN38LVy6Qz1ryiJXgr/pub" target="_blank" rel="noopener">ござさん演奏回数ランキング</Link><br/>
         <small>Created by <Link to="https://twitter.com/pinksaurs">pinksaurs</Link></small></li>
+        <li><Link to="https://docs.google.com/document/u/0/d/1rwMzJemS9vd9eCM7qFKfJ8--yNYvYP_NQOeypI1h3hc/mobilebasic" target="_blank" rel="noopener">ござさん演奏回数ランキング2021年</Link><br/>
+        <small>Created by <Link to="https://twitter.com/pinksaurs" target="_blank" rel="noopener">pinksaurs</Link></small></li>
       </ul>
     </p>
     <h3>管理人</h3>

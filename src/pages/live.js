@@ -12,7 +12,7 @@ const SecondPage = () => (
     <p>
       <div class="youtube">
         <iframe
-          src="https://www.youtube.com/embed/3762IU8rrTg" 
+          src="https://www.youtube.com/embed/3762IU8rrTg?start=238" 
           frameBorder="0" 
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
           allowFullScreen
@@ -116,6 +116,8 @@ const SecondPage = () => (
       また、ござさん演奏回数ランキングも作成されているので、人気曲の目安にすると良い。<br/>
       <ul class="tag">
         <li><Link to="https://docs.google.com/document/d/e/2PACX-1vSipQ_mM6tbfaMDzLuN9pDXmsiRcsOIDyFOYCFOAUHq3Vi4SBNtZ5rUrbRMKdEN38LVy6Qz1ryiJXgr/pub" target="_blank" rel="noopener">ござさん演奏回数ランキング</Link><br/>
+        <small>Created by <Link to="https://twitter.com/pinksaurs" target="_blank" rel="noopener">pinksaurs</Link></small></li>
+        <li><Link to="https://docs.google.com/document/u/0/d/1rwMzJemS9vd9eCM7qFKfJ8--yNYvYP_NQOeypI1h3hc/mobilebasic" target="_blank" rel="noopener">ござさん演奏回数ランキング2021年</Link><br/>
         <small>Created by <Link to="https://twitter.com/pinksaurs" target="_blank" rel="noopener">pinksaurs</Link></small></li>
       </ul>
     </p>

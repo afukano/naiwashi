@@ -13,6 +13,26 @@ const SecondPage = () => (
         <li><Link to="/movie/twitter">Twitterのみの投稿動画</Link></li>
       </ul>
     </p>
+    <h3>ストリートピアノ演奏</h3>
+    <p>
+      ござの最大の魅力はライブ配信時の即興演奏だが、ストリートピアノの演奏動画は再生回数も多く人気が高い。<br/>
+      そこでストリートピアノの演奏動画を集めて再生リストを作成し、再生回数の多い動画順に並べた。<br/>
+      以下の動画は作成した再生リストであり、人気の高い動画順に連続再生されるため、まずは何本か動画を視聴していただければと思う。<br/>
+      また、他の人が公開しているござの演奏動画も含んでいるため、ござの演奏を更に知りたい人も再生リストを確認することをおすすめする。<br/>
+      <div class="youtube">
+        <iframe 
+          src="https://www.youtube.com/embed/videoseries?list=PLTjfre1_Qtf9z-H451reX99lvQzeGCSKx" 
+          frameBorder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowFullScreen
+          title="ござ/ストリートピアノ"
+        ></iframe>
+      </div>
+      <br/>
+      <ul class="tag">
+        <li><Link to="https://www.youtube.com/playlist?list=PLTjfre1_Qtf9z-H451reX99lvQzeGCSKx" target="_blank" rel="noopener">再生リストはこちら</Link></li>
+      </ul>
+    </p>
     <h3>ルパン三世のテーマ '80 / Lupin the Third '80 (Piano Cover)</h3>
     <p>
       アニメをあまり見ない人でも、どこかで聞いたことがあるのでは？<br/>
