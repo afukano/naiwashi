@@ -1,6 +1,8 @@
 import React from "react"
 import { Link } from "gatsby"
 
+import { OutboundLink } from "gatsby-plugin-google-analytics"
+
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
@@ -71,7 +73,7 @@ const SecondPage = () => (
       <b>■見どころポインツ</b><br/>
       宝島 / ものはっぱ ぜろいち(10:07～)<br/>
       <ul class="tag">
-        <li><a href="https://twitcasting.tv/iriirisriri/movie/640373180" target="_blank" rel="noopener">再生できない場合はこちらから</a></li>
+        <li><OutboundLink href="https://twitcasting.tv/iriirisriri/movie/640373180" target="_blank" rel="noopener">再生できない場合はこちらから</OutboundLink></li>
       </ul>
       <div class="youtube">
         <iframe 

@@ -1,6 +1,8 @@
 import React from "react"
 import { Link } from "gatsby"
 
+import { OutboundLink } from "gatsby-plugin-google-analytics"
+
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
@@ -31,7 +33,7 @@ const SecondPage = () => (
       ライブ配信は不定期。突然始まることも稀にある。<br/>
       Youtubeチャンネルの通知をONにしておけば開始時に知ることもできるが直前になりがち。<br/>
       <ul class="tag">
-        <li><a href="https://www.youtube.com/channel/UC2Kb6k-aGIaKxlNPkrdcoHA" target="_blank" rel="noopener">ござのYoutubeチャンネル</a></li>
+        <li><OutboundLink href="https://www.youtube.com/channel/UC2Kb6k-aGIaKxlNPkrdcoHA" target="_blank" rel="noopener">ござのYoutubeチャンネル</OutboundLink></li>
         <li>【参考ページ】<Link to="https://weekly.ascii.jp/elem/000/001/634/1634383/" target="_blank" rel="noopener">YouTube「チャンネル登録」「通知設定」をする意味とメリット</Link></li>
       </ul>
       そこで、ござのTwitterアカウントをフォローし、通知設定をONにしておくことをおすすめする。<br/>
@@ -40,13 +42,13 @@ const SecondPage = () => (
           今晩2230以降にかけて新年初配信があるかもとの見方も🤏🤏🤏
         </p>
         &mdash; ござ 🎹 (@gprza) 
-        <a href="https://twitter.com/gprza/status/1348597702674714625?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">
+        <OutboundLink href="https://twitter.com/gprza/status/1348597702674714625?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">
           January 11, 2021
-        </a>
+        </OutboundLink>
       </blockquote>
       遅くともライブ配信の数時間前には、ライブ配信をする旨ツイートしてくれる。<br/>
       <ul class="tag">
-        <li><a href="https://twitter.com/gprza" target="_blank" rel="noopener">ござのTwitterアカウント</a></li>
+        <li><OutboundLink href="https://twitter.com/gprza" target="_blank" rel="noopener">ござのTwitterアカウント</OutboundLink></li>
       </ul>
     </p>
     <h3>ないわし？</h3>
@@ -67,9 +69,9 @@ const SecondPage = () => (
           つづく→
         </p>
         &mdash; ござ 🎹 (@gprza) 
-        <a href="https://twitter.com/gprza/status/1306804373377314816?ref_src=twsrc%5Etfw">
+        <OutboundLink href="https://twitter.com/gprza/status/1306804373377314816?ref_src=twsrc%5Etfw">
           September 18, 2020
-        </a>
+        </OutboundLink>
       </blockquote>
       <blockquote class="twitter-tweet">
         <p lang="ja" dir="ltr">
@@ -78,9 +80,9 @@ const SecondPage = () => (
           続く→
         </p>
         &mdash; ござ 🎹 (@gprza) 
-        <a href="https://twitter.com/gprza/status/1306806587357425664?ref_src=twsrc%5Etfw">
+        <OutboundLink href="https://twitter.com/gprza/status/1306806587357425664?ref_src=twsrc%5Etfw">
           September 18, 2020
-        </a>
+        </OutboundLink>
       </blockquote>
     </p>
     <h3>過去のライブ配信を見たい</h3>

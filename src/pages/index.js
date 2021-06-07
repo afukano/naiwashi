@@ -1,6 +1,7 @@
 import React from "react"
 import { Link } from "gatsby"
 
+import { OutboundLink } from "gatsby-plugin-google-analytics"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { library } from '@fortawesome/fontawesome-svg-core'
 import { fab } from '@fortawesome/free-brands-svg-icons'
@@ -44,9 +45,9 @@ const IndexPage = () => (
       <ul class="tag">
         <li><Link to="https://www.youtube.com/channel/UC2Kb6k-aGIaKxlNPkrdcoHA" target="_blank" rel="noopener">ござのYoutubeチャンネル</Link></li>
         <li><div class="twitter">
-          <a href="https://twitter.com/gprza?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="true">
+          <OutboundLink href="https://twitter.com/gprza?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="true">
             Follow @gprza
-          </a>
+          </OutboundLink>
         </div></li>
         <li><Link to="https://twitcasting.tv/gprza/" target="_blank" rel="noopener">ござのツイキャス</Link></li>
       </ul>
@@ -100,9 +101,9 @@ const IndexPage = () => (
         みたいな音楽歴です☺️☺️
       </p>
       &mdash; ござ 🎹 (@gprza) 
-      <a href="https://twitter.com/gprza/status/1091724201847795712?ref_src=twsrc%5Etfw">
+      <OutboundLink href="https://twitter.com/gprza/status/1091724201847795712?ref_src=twsrc%5Etfw">
         February 2, 2019
-      </a>
+      </OutboundLink>
     </blockquote>
     <h3>Youtubeチャンネル紹介動画</h3>
     <p>

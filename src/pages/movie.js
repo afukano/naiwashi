@@ -80,7 +80,7 @@ const SecondPage = () => (
         src="https://ext.nicovideo.jp/thumb/sm13496819" 
         scrolling="no" 
         frameBorder="0">
-        <a href="https://www.nicovideo.jp/watch/sm13496819">「neu(ニエンテ)」を弾いてみた</a>
+        <OutboundLink href="https://www.nicovideo.jp/watch/sm13496819">「neu(ニエンテ)」を弾いてみた</OutboundLink>
       </iframe>
     </p>
     <p>
@@ -105,7 +105,7 @@ const SecondPage = () => (
         scrolling="no" 
         frameBorder="0"
         title="ござ/ChainingIntention">
-        <a href="https://www.nicovideo.jp/watch/sm11494784">「Chaining Intention」を弾いてみた</a>
+        <OutboundLink href="https://www.nicovideo.jp/watch/sm11494784">「Chaining Intention」を弾いてみた</OutboundLink>
       </iframe>
     </p>
     <h3>実況！ジャズピアノソロ！カントリーロード</h3>

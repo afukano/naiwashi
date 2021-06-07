@@ -1,6 +1,8 @@
 import React from "react"
 import { Link } from "gatsby"
 
+import { OutboundLink } from "gatsby-plugin-google-analytics"
+
 import Layout from "../../components/layout"
 import Image from "../../components/image"
 import SEO from "../../components/seo"
@@ -13,12 +15,12 @@ const IndexPage = () => (
       <blockquote class="twitter-tweet">
         <p lang="ja" dir="ltr">
           5月3日のライブ会場での昨日の下見の様子(というかずっとピアノ弾いてた) 
-          <a href="https://t.co/ciHVeimj9n">
+          <OutboundLink href="https://t.co/ciHVeimj9n">
             pic.twitter.com/ciHVeimj9n
           </a>
         </p>
         &mdash; ござ 🎹 (@gprza) 
-        <a href="https://twitter.com/gprza/status/1385447944309018625?ref_src=twsrc%5Etfw">
+        <OutboundLink href="https://twitter.com/gprza/status/1385447944309018625?ref_src=twsrc%5Etfw">
           April 23, 2021
         </a>
       </blockquote>
@@ -27,12 +29,12 @@ const IndexPage = () => (
       <blockquote class="twitter-tweet">
         <p lang="ja" dir="ltr">
           誇張しすぎた歌謡曲のトランペット 
-          <a href="https://t.co/hVxbosLrIy">
+          <OutboundLink href="https://t.co/hVxbosLrIy">
             pic.twitter.com/hVxbosLrIy
           </a>
         </p>
         &mdash; ござ 🎹 (@gprza) 
-        <a href="https://twitter.com/gprza/status/1358373673216823297?ref_src=twsrc%5Etfw">
+        <OutboundLink href="https://twitter.com/gprza/status/1358373673216823297?ref_src=twsrc%5Etfw">
           February 7, 2021
         </a>
       </blockquote>
@@ -41,29 +43,29 @@ const IndexPage = () => (
       <blockquote class="twitter-tweet">
         <p lang="ja" dir="ltr">
           うっせえわを、うっさくなく弾いてみました。 
-          <a href="https://t.co/hQfWJKUkOa">pic.twitter.com/hQfWJKUkOa</a>
+          <OutboundLink href="https://t.co/hQfWJKUkOa">pic.twitter.com/hQfWJKUkOa</a>
         </p>
         &mdash; ござ 🎹 (@gprza) 
-        <a href="https://twitter.com/gprza/status/1351795333873864705?ref_src=twsrc%5Etfw">January 20, 2021</a>
+        <OutboundLink href="https://twitter.com/gprza/status/1351795333873864705?ref_src=twsrc%5Etfw">January 20, 2021</a>
       </blockquote>
     </p>
     <p>
       <blockquote class="twitter-tweet">
         <p lang="ja" dir="ltr">
           そろそろ降雪の季節ですねということで、ポケモンダイヤモンド・パールより、216番道路(画面酔い注意) 
-          <a href="https://t.co/EhBfZPHdpK">pic.twitter.com/EhBfZPHdpK</a>
+          <OutboundLink href="https://t.co/EhBfZPHdpK">pic.twitter.com/EhBfZPHdpK</a>
         </p>
         &mdash; ござ 🎹 (@gprza) 
-        <a href="https://twitter.com/gprza/status/1348528577659113474?ref_src=twsrc%5Etfw">January 11, 2021</a>
+        <OutboundLink href="https://twitter.com/gprza/status/1348528577659113474?ref_src=twsrc%5Etfw">January 11, 2021</a>
       </blockquote>
     </p>
     <p>
       <blockquote class="twitter-tweet">
         <p lang="ja" dir="ltr">VR視点でよく分かるショパン木枯らし(ノンペダル) 
-          <a href="https://t.co/qIfzArvV1x">pic.twitter.com/qIfzArvV1x</a>
+          <OutboundLink href="https://t.co/qIfzArvV1x">pic.twitter.com/qIfzArvV1x</a>
         </p>
         &mdash; ござ 🎹 (@gprza) 
-        <a href="https://twitter.com/gprza/status/1329975652250910720?ref_src=twsrc%5Etfw">November 21, 2020</a>
+        <OutboundLink href="https://twitter.com/gprza/status/1329975652250910720?ref_src=twsrc%5Etfw">November 21, 2020</a>
       </blockquote>
     </p>
     <p>
@@ -71,92 +73,92 @@ const IndexPage = () => (
         <p lang="ja" dir="ltr">
           VR技術で体験するショパン視点です。<br/>
           ※画面酔い注意 
-          <a href="https://t.co/2KLC65Qqmc">pic.twitter.com/2KLC65Qqmc</a>
+          <OutboundLink href="https://t.co/2KLC65Qqmc">pic.twitter.com/2KLC65Qqmc</a>
         </p>
         &mdash; ござ 🎹 (@gprza) 
-        <a href="https://twitter.com/gprza/status/1329361683739856896?ref_src=twsrc%5Etfw">November 19, 2020</a>
+        <OutboundLink href="https://twitter.com/gprza/status/1329361683739856896?ref_src=twsrc%5Etfw">November 19, 2020</a>
       </blockquote>
     </p>
     <p>
       <blockquote class="twitter-tweet">
         <p lang="ja" dir="ltr">
           なぜベストを尽くしてしまったのか 
-          <a href="https://twitter.com/hashtag/%E3%83%99%E3%83%BC%E3%82%B9%E3%81%AE%E6%97%A5?src=hash&amp;ref_src=twsrc%5Etfw">#ベースの日</a> <a href="https://twitter.com/hashtag/%E3%83%99%E3%83%BC%E3%82%B9%E3%81%AE%E6%97%A52020?src=hash&amp;ref_src=twsrc%5Etfw">#ベースの日2020</a>
-          <a href="https://t.co/ZIeSsuwJ8h">pic.twitter.com/ZIeSsuwJ8h</a>
+          <OutboundLink href="https://twitter.com/hashtag/%E3%83%99%E3%83%BC%E3%82%B9%E3%81%AE%E6%97%A5?src=hash&amp;ref_src=twsrc%5Etfw">#ベースの日</a> <OutboundLink href="https://twitter.com/hashtag/%E3%83%99%E3%83%BC%E3%82%B9%E3%81%AE%E6%97%A52020?src=hash&amp;ref_src=twsrc%5Etfw">#ベースの日2020</a>
+          <OutboundLink href="https://t.co/ZIeSsuwJ8h">pic.twitter.com/ZIeSsuwJ8h</a>
         </p>
         &mdash; ござ 🎹 (@gprza)
-        <a href="https://twitter.com/gprza/status/1326523317637902338?ref_src=twsrc%5Etfw">November 11, 2020</a>
+        <OutboundLink href="https://twitter.com/gprza/status/1326523317637902338?ref_src=twsrc%5Etfw">November 11, 2020</a>
       </blockquote>
     </p>
     <p>
       <blockquote class="twitter-tweet">
         <p lang="ja" dir="ltr">
           かなりギリギリでしたが完全に間に合いましたﾃﾞｰﾃﾞｰｽｯﾃｰｽｯﾃｰｽｯﾃｰ 
-          <a href="https://t.co/lnV4O6d8Zg">pic.twitter.com/lnV4O6d8Zg</a>
+          <OutboundLink href="https://t.co/lnV4O6d8Zg">pic.twitter.com/lnV4O6d8Zg</a>
         </p>
         &mdash; ござ 🎹 (@gprza) 
-        <a href="https://twitter.com/gprza/status/1311420831063392256?ref_src=twsrc%5Etfw">September 30, 2020</a>
+        <OutboundLink href="https://twitter.com/gprza/status/1311420831063392256?ref_src=twsrc%5Etfw">September 30, 2020</a>
       </blockquote>
     </p>
     <p>
       <blockquote class="twitter-tweet">
         <p lang="ja" dir="ltr">
           納涼ピアノミニコンサート！/ Piano live 2020/08/16 
-          <a href="https://t.co/BF7XzYvP5r">https://t.co/BF7XzYvP5r</a> 
-          <a href="https://twitter.com/YouTube?ref_src=twsrc%5Etfw">@YouTube</a>より 明日21:00よりスペシャルな配信します！無駄に凝ったムービーを作ってしまった🤟 <a href="https://t.co/WaM9n57AnG">pic.twitter.com/WaM9n57AnG</a>
+          <OutboundLink href="https://t.co/BF7XzYvP5r">https://t.co/BF7XzYvP5r</a> 
+          <OutboundLink href="https://twitter.com/YouTube?ref_src=twsrc%5Etfw">@YouTube</a>より 明日21:00よりスペシャルな配信します！無駄に凝ったムービーを作ってしまった🤟 <OutboundLink href="https://t.co/WaM9n57AnG">pic.twitter.com/WaM9n57AnG</a>
         </p>
         &mdash; ござ 🎹 (@gprza) 
-        <a href="https://twitter.com/gprza/status/1294478972382621696?ref_src=twsrc%5Etfw">August 15, 2020</a>
+        <OutboundLink href="https://twitter.com/gprza/status/1294478972382621696?ref_src=twsrc%5Etfw">August 15, 2020</a>
       </blockquote>
     </p>
     <p>
       <blockquote class="twitter-tweet">
         <p lang="ja" dir="ltr">
           ひとりパプリカごっこ 
-          <a href="https://t.co/5PexOfJvhu">pic.twitter.com/5PexOfJvhu</a>
+          <OutboundLink href="https://t.co/5PexOfJvhu">pic.twitter.com/5PexOfJvhu</a>
         </p>
         &mdash; ござ 🎹 (@gprza) 
-        <a href="https://twitter.com/gprza/status/1293008785414295558?ref_src=twsrc%5Etfw">August 11, 2020</a>
+        <OutboundLink href="https://twitter.com/gprza/status/1293008785414295558?ref_src=twsrc%5Etfw">August 11, 2020</a>
       </blockquote>
     </p>
     <p>
       <blockquote class="twitter-tweet">
         <p lang="ja" dir="ltr">
           テストがてら撮影してたらすごくカッコイイのができそうな予感がしてきたような気がする。 
-          <a href="https://t.co/mr7vIZj1z4">pic.twitter.com/mr7vIZj1z4</a>
+          <OutboundLink href="https://t.co/mr7vIZj1z4">pic.twitter.com/mr7vIZj1z4</a>
         </p>
         &mdash; ござ 🎹 (@gprza) 
-        <a href="https://twitter.com/gprza/status/1290907520102354944?ref_src=twsrc%5Etfw">August 5, 2020</a>
+        <OutboundLink href="https://twitter.com/gprza/status/1290907520102354944?ref_src=twsrc%5Etfw">August 5, 2020</a>
       </blockquote>
     </p>
     <p>
       <blockquote class="twitter-tweet">
         <p lang="ja" dir="ltr">
           癒しが欲しかったので癒し系の曲を作ってみました。なんか映像やたら綺麗にできた🤟 
-          <a href="https://t.co/z3pJr5p1aG">pic.twitter.com/z3pJr5p1aG</a>
+          <OutboundLink href="https://t.co/z3pJr5p1aG">pic.twitter.com/z3pJr5p1aG</a>
         </p>
         &mdash; ござ 🎹 (@gprza) 
-        <a href="https://twitter.com/gprza/status/1289173826543087617?ref_src=twsrc%5Etfw">July 31, 2020</a>
+        <OutboundLink href="https://twitter.com/gprza/status/1289173826543087617?ref_src=twsrc%5Etfw">July 31, 2020</a>
       </blockquote>
     </p>
     <p>
       <blockquote class="twitter-tweet">
         <p lang="ja" dir="ltr">
           日本の唱歌『夏は来ぬ』のメロディと歌詞が好きすぎて、そのヤバさが伝わるPV的なものを作ってしまいました。歌詞のヤバさ伝われ…！ 
-          <a href="https://t.co/IWVWXaDTdd">pic.twitter.com/IWVWXaDTdd</a>
+          <OutboundLink href="https://t.co/IWVWXaDTdd">pic.twitter.com/IWVWXaDTdd</a>
         </p>
         &mdash; ござ 🎹 (@gprza) 
-        <a href="https://twitter.com/gprza/status/1285102293562474496?ref_src=twsrc%5Etfw">July 20, 2020</a>
+        <OutboundLink href="https://twitter.com/gprza/status/1285102293562474496?ref_src=twsrc%5Etfw">July 20, 2020</a>
       </blockquote>
     </p>
     <p>
       <blockquote class="twitter-tweet">
         <p lang="ja" dir="ltr">
           人間に過酷な負担を強いるショパン弾き語り 
-          <a href="https://t.co/wOXgdmzGA4">pic.twitter.com/wOXgdmzGA4</a>
+          <OutboundLink href="https://t.co/wOXgdmzGA4">pic.twitter.com/wOXgdmzGA4</a>
         </p>
         &mdash; ござ 🎹 (@gprza) 
-        <a href="https://twitter.com/gprza/status/1278931657995632640?ref_src=twsrc%5Etfw">July 3, 2020</a>
+        <OutboundLink href="https://twitter.com/gprza/status/1278931657995632640?ref_src=twsrc%5Etfw">July 3, 2020</a>
       </blockquote>
     </p>
   </Layout>

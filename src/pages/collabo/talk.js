@@ -1,6 +1,8 @@
 import React from "react"
 import { Link } from "gatsby"
 
+import { OutboundLink } from "gatsby-plugin-google-analytics"
+
 import Layout from "../../components/layout"
 import SEO from "../../components/seo"
 
@@ -16,7 +18,7 @@ const SecondPage = () => (
       <b>■見どころポインツ</b><br/>
       フィギュアスケート風ピアノ解説 / いりす けいちゃん 菊池亮太 事務員G <br/>
       <ul class="tag">
-        <li><a href="https://twitcasting.tv/iriirisriri/movie/657202568" target="_blank" rel="noopener">再生できない場合はこちらから</a></li>
+        <li><aOutboundLink href="https://twitcasting.tv/iriirisriri/movie/657202568" target="_blank" rel="noopener">再生できない場合はこちらから</aOutboundLink></li>
       </ul>
       <div class="youtube">
         <iframe 
@@ -34,7 +36,7 @@ const SecondPage = () => (
       投稿者：いりす<br/>
       日付：2020/06/08<br/>
       <ul class="tag">
-        <li><a href="https://twitcasting.tv/iriirisriri/movie/620679803" target="_blank" rel="noopener">再生できない場合はこちらから</a></li>
+        <li><OutboundLink href="https://twitcasting.tv/iriirisriri/movie/620679803" target="_blank" rel="noopener">再生できない場合はこちらから</OutboundLink></li>
       </ul>
       <div class="youtube">
         <iframe 
@@ -52,7 +54,7 @@ const SecondPage = () => (
       投稿者：いりす<br/>
       日付：2020/05/08<br/>
       <ul class="tag">
-        <li><a href="https://twitcasting.tv/iriirisriri/movie/612965835" target="_blank" rel="noopener">再生できない場合はこちらから</a></li>
+        <li><OutboundLink href="https://twitcasting.tv/iriirisriri/movie/612965835" target="_blank" rel="noopener">再生できない場合はこちらから</OutboundLink></li>
       </ul>
       <div class="youtube">
         <iframe 
@@ -69,7 +71,7 @@ const SecondPage = () => (
       投稿者：いりす<br/>
       日付：2020/04/22<br/>
       <ul class="tag">
-        <li><a href="https://twitcasting.tv/iriirisriri/movie/608436682" target="_blank" rel="noopener">再生できない場合はこちらから</a></li>
+        <li><OutboundLink href="https://twitcasting.tv/iriirisriri/movie/608436682" target="_blank" rel="noopener">再生できない場合はこちらから</OutboundLink></li>
       </ul>
       <div class="youtube">
         <iframe 
