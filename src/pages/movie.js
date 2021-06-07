@@ -1,6 +1,8 @@
 import React from "react"
 import { Link } from "gatsby"
 
+import { OutboundLink } from "gatsby-plugin-google-analytics"
+
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
@@ -30,7 +32,7 @@ const SecondPage = () => (
       </div>
       <br/>
       <ul class="tag">
-        <li><Link to="https://www.youtube.com/playlist?list=PLTjfre1_Qtf9z-H451reX99lvQzeGCSKx" target="_blank" rel="noopener">再生リストはこちら</Link></li>
+        <li><OutboundLink href="https://www.youtube.com/playlist?list=PLTjfre1_Qtf9z-H451reX99lvQzeGCSKx" target="_blank" rel="noopener">再生リストはこちら</OutboundLink></li>
       </ul>
     </p>
     <h3>ルパン三世のテーマ '80 / Lupin the Third '80 (Piano Cover)</h3>
