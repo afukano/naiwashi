@@ -56,7 +56,7 @@ const SecondPage = () => (
       アニメ「Cowboy Bebop」のOPテーマ。<br/>
       ピアノソロで、ウッドベース、SAX、トランペット等各パート部を網羅し、原曲のジャズバンドを見事に再現。<br/>
       原曲を聞くとその再現度の高さに驚かされるはず。<br/>
-      <Link to="https://youtu.be/T6zDfxZ4NcE" target="_blank" rel="noopener">原曲</Link>はこちら。<br/>
+      <OutboundLink to="https://youtu.be/T6zDfxZ4NcE" target="_blank" rel="noopener">原曲</OutboundLink>はこちら。<br/>
       Bebop＝「譜面通りではない自由な即興」というイメージから、ジャズのゆらぎ感も感じられる。<br/>
       安定の超絶技巧がさえわたる、短いながらもスパイスが効いた演奏。<br/>
       <div class="youtube">
@@ -84,7 +84,7 @@ const SecondPage = () => (
       </iframe>
     </p>
     <p>
-      <Link to="https://www.youtube.com/embed/vs06K1Le5H4" target="_blank" rel="noopener">Youtubeバージョンはこちら</Link>
+      <OutboundLink to="https://www.youtube.com/embed/vs06K1Le5H4" target="_blank" rel="noopener">Youtubeバージョンはこちら</OutboundLink>
     </p>
     <h3>「ヘミソフィア(hemisphere)」を弾いてみた</h3>
     <p>
