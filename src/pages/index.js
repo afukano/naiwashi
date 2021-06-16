@@ -43,13 +43,13 @@ const IndexPage = () => (
       ストリートピアノで「Official髭男dism(ヒゲダン)」「ベートーヴェンメドレー」「パプリカ」「クリスマスメドレー」等を演奏し徐々に知られるようになる。<br/>
       <br/>
       <ul class="tag">
-        <li><OutboundLink to="https://www.youtube.com/channel/UC2Kb6k-aGIaKxlNPkrdcoHA" target="_blank" rel="noopener">ござのYoutubeチャンネル</OutboundLink></li>
+        <li><OutboundLink href="https://www.youtube.com/channel/UC2Kb6k-aGIaKxlNPkrdcoHA" target="_blank" rel="noopener">ござのYoutubeチャンネル</OutboundLink></li>
         <li><div class="twitter">
           <OutboundLink href="https://twitter.com/gprza?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="true">
             Follow @gprza
           </OutboundLink>
         </div></li>
-        <li><OutboundLink to="https://twitcasting.tv/gprza/" target="_blank" rel="noopener">ござのツイキャス</OutboundLink></li>
+        <li><OutboundLink href="https://twitcasting.tv/gprza/" target="_blank" rel="noopener">ござのツイキャス</OutboundLink></li>
       </ul>
       <br/>
       ストリートピアノ動画の再生回数が多いが、<br/>
@@ -62,15 +62,15 @@ const IndexPage = () => (
       即興アレンジが最大の魅力だが、キラキラした音、圧倒的な音数も特徴的。<br/>
       ずっしー氏が命名した“Goza-Alternate”（ござオルタネイト）と呼ばれる独特の奏法を用いる。<br/>
       <ul class="tag">
-        <li><OutboundLink to="https://zussie-piano.com/pse-16beat-paradiddle1/" target rel="noopener">Goza-Alternate について</OutboundLink></li>
+        <li><OutboundLink href="https://zussie-piano.com/pse-16beat-paradiddle1/" target rel="noopener">Goza-Alternate について</OutboundLink></li>
       </ul>
       <br/>
       Youtubeで活動する以前はニコニコ動画にて「あんだば先生」と呼ばれていた。<br/>
       これは投稿者の名前が「_」(アンダーバー)だったため、視聴者から親しみを込めて「あんだば先生」と呼ばれるようになった。<br/>
       その後、新しい名前の投票が行われ「ござ」と「セロニアス」から「ござにあす」に改名し、通称「ござ」と呼ばれることに至った。<br/>
       <ul class="tag">
-        <li><OutboundLink to="https://www.nicovideo.jp/user/3359408" target="_blank" rel="noopener">ござのアカウント(ニコニコ動画)</OutboundLink></li>
-        <li><OutboundLink to="http://www.nicozon.net/tag/%E3%81%82%E3%82%93%E3%81%A0%E3%81%B0%E5%85%88%E7%94%9F/f/a" target="_blank" rel="noopener">「あんだば先生」の動画</OutboundLink></li>
+        <li><OutboundLink href="https://www.nicovideo.jp/user/3359408" target="_blank" rel="noopener">ござのアカウント(ニコニコ動画)</OutboundLink></li>
+        <li><OutboundLink href="http://www.nicozon.net/tag/%E3%81%82%E3%82%93%E3%81%A0%E3%81%B0%E5%85%88%E7%94%9F/f/a" target="_blank" rel="noopener">「あんだば先生」の動画</OutboundLink></li>
       </ul>
       <br/>
       Youtubeチャンネルのアイコンはネズミだがこれは特に意味はない。<br/>
@@ -78,13 +78,13 @@ const IndexPage = () => (
       <br/>
       月刊ピアノにて「ござさんの All that Goza's Piano Arrange」を連載中。<br/>
       <ul class="tag">
-        <li><OutboundLink to="https://www.ymm.co.jp/magazine/piano/" target="_blank" rel="noopener">月刊ピアノ</OutboundLink></li>
+        <li><OutboundLink href="https://www.ymm.co.jp/magazine/piano/" target="_blank" rel="noopener">月刊ピアノ</OutboundLink></li>
       </ul>
       <br/>
       編曲した楽譜も販売中。<br/>
       <ul class="tag">
-        <li><OutboundLink to="https://mucome.net/profile?id=2690" target="_blank" rel="noopener">mucome</OutboundLink>はこちら</li>
-        <li><OutboundLink to="https://store.piascore.com/publishers/1343" target="_blank" rel="noopener">Piascore</OutboundLink>はこちら</li>
+        <li><OutboundLink href="https://mucome.net/profile?id=2690" target="_blank" rel="noopener">mucome</OutboundLink>はこちら</li>
+        <li><OutboundLink href="https://store.piascore.com/publishers/1343" target="_blank" rel="noopener">Piascore</OutboundLink>はこちら</li>
       </ul>
     </p>
     <h3>ござ本人による経歴紹介</h3>
@@ -137,22 +137,22 @@ const IndexPage = () => (
       <ul class="list">
         <li>
           「総再生数1億回超え！ネットピアニストたちの動画を楽譜にしてみた結果・・・！？」ヤマハミュージックメディア(2020年1月24日発売)<br/>
-          <OutboundLink to="https://www.ymm.co.jp/feature/netpianists.php" target="_blank" rel="noopener">詳細</OutboundLink>はこちら
+          <OutboundLink href="https://www.ymm.co.jp/feature/netpianists.php" target="_blank" rel="noopener">詳細</OutboundLink>はこちら
         </li>
         <li>
         「月刊ピアノ」アレンジ講座連載(2020年1月号～現在)
         </li>
         <li>
         「月刊ピアノ」インタビュー掲載(2021年5月号)<br/>
-        <OutboundLink to="https://www.ymm.co.jp/p/detail.php?code=GTM01097974" target="_blank" rel="noopener">詳細</OutboundLink>はこちら
+        <OutboundLink href="https://www.ymm.co.jp/p/detail.php?code=GTM01097974" target="_blank" rel="noopener">詳細</OutboundLink>はこちら
         </li>
         <li>
         「月刊ショパン」 2021年2月号ござ×菊池亮太対談掲載<br/>
-        <OutboundLink to="https://youtu.be/a7xh3gfaNvE" target="_blank" rel="noopener">対談動画</OutboundLink>はこちら
+        <OutboundLink href="https://youtu.be/a7xh3gfaNvE" target="_blank" rel="noopener">対談動画</OutboundLink>はこちら
         </li>
         <li>
         「月刊ショパン」 2021年1月号ござ×ハラミちゃん対談掲載<br/>
-        <OutboundLink to="https://youtu.be/p0LQrpxb30E" target="_blank" rel="noopener">対談動画</OutboundLink>はこちら
+        <OutboundLink href="https://youtu.be/p0LQrpxb30E" target="_blank" rel="noopener">対談動画</OutboundLink>はこちら
         </li>
       </ul>
     </p>
