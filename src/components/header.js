@@ -44,7 +44,7 @@ const Header = ({ siteTitle }) => (
     >
       <p style={{
           margin: 0,
-          paddingTop: `50px`,
+          paddingTop: `60px`,
           color: `white`,
           textDecoration: `none`,
         }}
@@ -52,7 +52,7 @@ const Header = ({ siteTitle }) => (
         &nbsp;※本サイトは非公式のファンサイトです
       </p>
       <h1 style={{ margin: 0,
-        paddingTop: `20px`, }}>
+        paddingTop: `30px`, }}>
         <Link
           to="/"
           style={{
