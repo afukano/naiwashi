@@ -26,9 +26,6 @@ const IndexPage = () => (
       小学校一年生の時、他の人が演奏していた初見の「幻想即興曲」を耳コピ。(冒頭部分のみ)<br/>
       ピアノ教室でクラシックピアノを習う。<br/>
       中学高校では吹奏楽部だった。(クラリネット、ユーフォニアム)<br/>
-      2009年からニコニコ動画へピアノ動画の投稿を始めている。<br/>
-      動画投稿当初はボカロ曲や音ゲーのような音数、手数が多めの演奏が中心であった。<br/>
-      <small>※「ニエンテ」や「Chaining Intention」が代表的</small><br/>
       大学進学後に(音大ではない)ビッグバンドに加入。<br/>
       その影響もあり、2014年頃にはウォーキングベースの演奏も披露し始める。<br/>
       <small>※「ルパン三世のテーマ '80」が代表的</small><br/>
@@ -36,12 +33,11 @@ const IndexPage = () => (
       大学卒業後はピアノ演奏を趣味として続けられるように、比較的自由な時間を取りやすい介護職に就く。<br/>
       介護職時代に職場でピアノ演奏することもあり、この経験から昭和歌謡等も覚えることとなった。<br/>
       <br/>
-      長らく知る人ぞ知る存在であったが、<br/>
-      都庁のストリートピアノで菊池亮太と「丸の内サディスティック」の連弾動画をYoutubeに投稿。<br/>
-      その後、ピアノ仲間からの叱咤激励もあり、介護職を退職し2020年2月15日のライブ配信にてプロ転向を宣言。<br/>
-      <small>※この頃、菊池亮太氏から「ござさんの手は国宝だから」と言われた</small><br/>
-      ストリートピアノで「Official髭男dism(ヒゲダン)」「ベートーヴェンメドレー」「パプリカ」「クリスマスメドレー」等を演奏し徐々に知られるようになる。<br/>
-      <br/>
+      即興アレンジが最大の魅力だが、キラキラした音、圧倒的な音数も特徴的。<br/>
+      ずっしー氏が命名した“Goza-Alternate”（ござオルタネイト）と呼ばれる独特の奏法を用いる。<br/>
+      <ul class="tag">
+        <li><OutboundLink href="https://zussie-piano.com/pse-16beat-paradiddle1/" target rel="noopener">Goza-Alternate について</OutboundLink></li>
+      </ul>
       <ul class="tag">
         <li><OutboundLink href="https://www.youtube.com/channel/UC2Kb6k-aGIaKxlNPkrdcoHA" target="_blank" rel="noopener">ござのYoutubeチャンネル</OutboundLink></li>
         <li><div class="twitter">
@@ -51,7 +47,36 @@ const IndexPage = () => (
         </div></li>
         <li><OutboundLink href="https://twitcasting.tv/gprza/" target="_blank" rel="noopener">ござのツイキャス</OutboundLink></li>
       </ul>
+      <h4>２ちゃんねるセッションスレ時代「bannsou」「伴奏」名義</h4>
+      ござがインターネット上に最初に現れたのは2009年。<br/>
+      2ちゃんねるに存在していた「セッションスレ」で活動を開始。<br/>
+      「bannsou」もしくは「伴奏」名義で活動していた。<br/>
+      残念ながらこの時代の音源は多くは残っていない。<br/>
+      セッションスレ時代の情報については以下リンク先のTweetにまとめた。<br/>
+      <ul class="tag">
+        <li><OutboundLink href="https://twitter.com/naiwashi817/status/1405125440382017536" target="_blank" rel="noopener">セッションスレ時代について</OutboundLink></li>
+      </ul>
       <br/>
+      <h4>ニコニコ動画時代「_」(アンダーバー)「あんだば先生」「ござにあす」名義</h4>
+      2009年からニコニコ動画へピアノ動画の投稿を始めている。<br/>
+      動画投稿当初はボカロ曲や音ゲーのような音数、手数が多めの演奏が中心であった。<br/>
+      <small>※「ニエンテ」や「Chaining Intention」が代表的</small><br/>
+      ニコニコ動画では「あんだば先生」と呼ばれていた。<br/>
+      これは投稿者の名前が「_」(アンダーバー)だったため、視聴者から親しみを込めて「あんだば先生」と呼ばれるようになった。<br/>
+      その後、新しい名前の投票が行われ「ござ」と「セロニアス」から「ござにあす」に改名し、通称「ござ」と呼ばれることに至った。<br/>
+      <ul class="tag">
+        <li><OutboundLink href="https://www.nicovideo.jp/user/3359408/video?sortKey=viewCount&sortOrder=desc" target="_blank" rel="noopener">ござの投稿動画(ニコニコ動画)</OutboundLink></li>
+        <li><OutboundLink href="https://www.nicovideo.jp/my/mylist/71272433" target="_blank" rel="noopener">ござ以外が投稿した動画(ニコニコ動画)</OutboundLink></li>
+      </ul>
+      <h4>YouTuber、プロピアニスト宣言</h4>
+      長らく知る人ぞ知る存在であったが、<br/>
+      都庁のストリートピアノで菊池亮太と「丸の内サディスティック」の連弾動画をYoutubeに投稿。<br/>
+      その後、ピアノ仲間からの叱咤激励もあり、介護職を退職し2020年2月15日のライブ配信にてプロ転向を宣言。<br/>
+      <small>※この頃、菊池亮太氏から「ござさんの手は国宝だから」と言われた</small><br/>
+      ストリートピアノで「Official髭男dism(ヒゲダン)」「ベートーヴェンメドレー」「パプリカ」「クリスマスメドレー」等を演奏し徐々に知られるようになる。<br/>
+      <ul class="tag">
+        <li><OutboundLink href="https://www.youtube.com/playlist?list=PLTjfre1_Qtf9z-H451reX99lvQzeGCSKx" target="_blank" rel="noopener">ストリートピアノ再生リスト</OutboundLink></li>
+      </ul>
       ストリートピアノ動画の再生回数が多いが、<br/>
       不定期に配信されるYoutube顔出しライブ配信での即興演奏がファンから人気。(稀にツイキャスでも配信する)<br/>
       ライブ配信中にチャットで弾いてほしい曲をリクエストすると、運が良ければ弾いてもらえる。<br/>
@@ -59,20 +84,6 @@ const IndexPage = () => (
       <ul class="tag">
         <li><Link to="/live/">ライブ配信やメンバーシップについて詳細</Link></li>
       </ul>
-      即興アレンジが最大の魅力だが、キラキラした音、圧倒的な音数も特徴的。<br/>
-      ずっしー氏が命名した“Goza-Alternate”（ござオルタネイト）と呼ばれる独特の奏法を用いる。<br/>
-      <ul class="tag">
-        <li><OutboundLink href="https://zussie-piano.com/pse-16beat-paradiddle1/" target rel="noopener">Goza-Alternate について</OutboundLink></li>
-      </ul>
-      <br/>
-      Youtubeで活動する以前はニコニコ動画にて「あんだば先生」と呼ばれていた。<br/>
-      これは投稿者の名前が「_」(アンダーバー)だったため、視聴者から親しみを込めて「あんだば先生」と呼ばれるようになった。<br/>
-      その後、新しい名前の投票が行われ「ござ」と「セロニアス」から「ござにあす」に改名し、通称「ござ」と呼ばれることに至った。<br/>
-      <ul class="tag">
-        <li><OutboundLink href="https://www.nicovideo.jp/user/3359408" target="_blank" rel="noopener">ござのアカウント(ニコニコ動画)</OutboundLink></li>
-        <li><OutboundLink href="http://www.nicozon.net/tag/%E3%81%82%E3%82%93%E3%81%A0%E3%81%B0%E5%85%88%E7%94%9F/f/a" target="_blank" rel="noopener">「あんだば先生」の動画</OutboundLink></li>
-      </ul>
-      <br/>
       Youtubeチャンネルのアイコンはネズミだがこれは特に意味はない。<br/>
       イラスト作成を依頼する際、強いて言えばござは何に似ているか？と聞いた回答がネズミだったため。<br/>
       <br/>

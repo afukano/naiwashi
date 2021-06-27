@@ -644,9 +644,6 @@ pre tt:after {
   width: 120px;
   height: 50px;
 }
-#gnav{
-  height: 100px;
-}
 #gnav a{
   text-decoration: none;
   color: rgb(187, 192, 0);

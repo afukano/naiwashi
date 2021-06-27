@@ -1,16 +1,28 @@
 import React from "react"
-import { Link } from "gatsby"
 
 import { OutboundLink } from "gatsby-plugin-google-analytics"
 
 import Layout from "../../components/layout"
-import Image from "../../components/image"
 import SEO from "../../components/seo"
 
 const IndexPage = () => (
   <Layout>
     <SEO title="Twitter投稿動画" />
     <h2>Twitterのみの投稿動画</h2>
+    <p>
+      <blockquote class="twitter-tweet">
+        <p lang="ja" dir="ltr">
+          最近のベース音源はあまりにもリアルすぎてベーシストのチューニングのモノマネができるレベル。細かすぎて伝わらないけど 
+          <OutboundLink href="https://t.co/RX1V75CG12">
+            pic.twitter.com/RX1V75CG12
+          </OutboundLink>
+        </p>
+        &mdash; ござ 🎹 (@gprza) 
+        <OutboundLink href="https://twitter.com/gprza/status/1399684155571466240?ref_src=twsrc%5Etfw">
+          June 1, 2021
+        </OutboundLink>
+      </blockquote>
+    </p>
     <p>
       <blockquote class="twitter-tweet">
         <p lang="ja" dir="ltr">

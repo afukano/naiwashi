@@ -32,7 +32,11 @@ const SecondPage = () => (
       </div>
       <br/>
       <ul class="tag">
-        <li><OutboundLink href="https://www.youtube.com/playlist?list=PLTjfre1_Qtf9z-H451reX99lvQzeGCSKx" target="_blank" rel="noopener">再生リストはこちら</OutboundLink></li>
+        <li><OutboundLink href="https://www.youtube.com/playlist?list=PLTjfre1_Qtf9z-H451reX99lvQzeGCSKx" target="_blank" rel="noopener">ストリートピアノ再生リスト</OutboundLink></li>
+      </ul>
+      もっとござの事を知りたい方は、本人のチャンネル以外にござが出演した、もしくは関連する動画の再生リストも作成してあるので参照して欲しい。
+      <ul class="tag">
+        <li><OutboundLink href="https://www.youtube.com/playlist?list=PLTjfre1_Qtf-G1CMKyUrfisZI03Z0Ke_v" target="_blank" rel="noopener">他チャンネル再生リスト</OutboundLink></li>
       </ul>
     </p>
     <h3>ルパン三世のテーマ '80 / Lupin the Third '80 (Piano Cover)</h3>
@@ -84,7 +88,9 @@ const SecondPage = () => (
       </iframe>
     </p>
     <p>
-      <OutboundLink href="https://www.youtube.com/embed/vs06K1Le5H4" target="_blank" rel="noopener">Youtubeバージョンはこちら</OutboundLink>
+      <ul class="tag">
+        <li><OutboundLink href="https://www.youtube.com/embed/vs06K1Le5H4" target="_blank" rel="noopener">Youtubeバージョンはこちら</OutboundLink></li>
+      </ul>
     </p>
     <h3>「ヘミソフィア(hemisphere)」を弾いてみた</h3>
     <p>
