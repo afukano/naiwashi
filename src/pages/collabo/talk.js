@@ -10,6 +10,24 @@ const SecondPage = () => (
   <Layout>
     <SEO title="雑談コラボ" />
     <h2>雑談動画</h2>
+    <h3>ちょっと雑談放送</h3>
+    <p>
+      リンク元：ツイキャス<br/>
+      投稿者：ござ<br/>
+      日付：2021/06/30<br/>
+      <ul class="tag">
+        <li><OutboundLink href="https://twitcasting.tv/gprza/movie/689995676" target="_blank" rel="noopener">再生できない場合はこちらから</OutboundLink></li>
+      </ul>
+      <div class="youtube">
+        <iframe 
+          src="https://twitcasting.tv/gprza/embeddedplayer/689995676?auto_play=false&default_mute=false" 
+          frameBorder="0" 
+          allowFullScreen
+          title="ござ/雑談"
+        ></iframe>
+      </div>
+    </p>
+    <br/>
     <h3>ライブ 眠れないのでピアノ弾きます🐘🎹 #657202568</h3>
     <p>
       リンク元：ツイキャス<br/>
@@ -18,7 +36,7 @@ const SecondPage = () => (
       <b>■見どころポインツ</b><br/>
       フィギュアスケート風ピアノ解説 / いりす けいちゃん 菊池亮太 事務員G <br/>
       <ul class="tag">
-        <li><aOutboundLink href="https://twitcasting.tv/iriirisriri/movie/657202568" target="_blank" rel="noopener">再生できない場合はこちらから</aOutboundLink></li>
+        <li><OutboundLink href="https://twitcasting.tv/iriirisriri/movie/657202568" target="_blank" rel="noopener">再生できない場合はこちらから</OutboundLink></li>
       </ul>
       <div class="youtube">
         <iframe 
