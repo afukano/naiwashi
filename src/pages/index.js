@@ -44,7 +44,7 @@ const IndexPage = () => (
         <li><OutboundLink href="https://twitcasting.tv/gprza/" target="_blank" rel="noopener">ござのツイキャス</OutboundLink></li>
       </ul>
       Twitterでも情報発信しているためフォローすることをおすすめする。<br/>
-      また、ござのTweetをまとめているので興味のある方は参照して欲しい。<br/>
+      また、ござについて更に深く知りたい方は、ござのTweetをまとめているので参照して欲しい。<br/>
       <ul class="tag">
         <li><div class="twitter">
           <OutboundLink href="https://twitter.com/gprza?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="true">
