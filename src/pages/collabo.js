@@ -100,6 +100,22 @@ const SecondPage = () => (
       </div>
     </p>
     <br/>
+    <h3>ござさんとコラボセッション！ / ものはっぱ</h3>
+    <p>
+      <ul class="tag">
+        <li><OutboundLink href="https://ssl.twitcasting.tv/m0n0happa/movie/560571690" target="_blank" rel="noopener">再生できない場合はこちらから</OutboundLink></li>
+      </ul>
+      <div class="youtube">
+        <iframe 
+          src="https://ssl.twitcasting.tv/m0n0happa/embeddedplayer/560571690?auto_play=false&default_mute=false" 
+          frameBorder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowFullScreen
+          title="ものはっぱ / ござさんとコラボセッション！ / ものはっぱ"
+        ></iframe>
+      </div>
+    </p>
+    <br/>
   </Layout>
 )
 
