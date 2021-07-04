@@ -38,25 +38,49 @@ const IndexPage = () => (
       <ul class="tag">
         <li><OutboundLink href="https://zussie-piano.com/pse-16beat-paradiddle1/" target rel="noopener">Goza-Alternate について</OutboundLink></li>
       </ul>
+      現在の活動場所はYouTubeをメイン、時折ツイキャスで配信している。<br/>
       <ul class="tag">
         <li><OutboundLink href="https://www.youtube.com/channel/UC2Kb6k-aGIaKxlNPkrdcoHA" target="_blank" rel="noopener">ござのYoutubeチャンネル</OutboundLink></li>
+        <li><OutboundLink href="https://twitcasting.tv/gprza/" target="_blank" rel="noopener">ござのツイキャス</OutboundLink></li>
+      </ul>
+      Twitterでも情報発信しているためフォローすることをおすすめする。<br/>
+      また、ござのTweetをまとめているので興味のある方は参照して欲しい。<br/>
+      <ul class="tag">
         <li><div class="twitter">
           <OutboundLink href="https://twitter.com/gprza?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="true">
             Follow @gprza
           </OutboundLink>
         </div></li>
-        <li><OutboundLink href="https://twitcasting.tv/gprza/" target="_blank" rel="noopener">ござのツイキャス</OutboundLink></li>
+        <li><Link to="/movie/twitter">ござのTwitterまとめ</Link></li>
       </ul>
+      ござは2009年から長く活動しているため、インターネット上の様々な媒体に音源を投稿している。<br/>
+      各媒体について以下にまとめたので参照して欲しい。<br/>
+      <br/>
       <h4>２ちゃんねるセッションスレ時代「bannsou」「伴奏」名義</h4>
-      ござがインターネット上に最初に現れたのは2009年。<br/>
-      2ちゃんねるに存在していた「セッションスレ」で活動を開始。<br/>
+      ござがインターネット上に最初に現れたのは2ちゃんねるに存在していた「セッションスレ」。<br/>
       「bannsou」もしくは「伴奏」名義で活動していた。<br/>
       残念ながらこの時代の音源は多くは残っていない。<br/>
-      セッションスレ時代の情報については以下リンク先のTweetにまとめた。<br/>
+      セッションスレ時代の情報については以下リンク先のTweetのスレッドにまとめた。<br/>
       <ul class="tag">
         <li><OutboundLink href="https://twitter.com/naiwashi817/status/1405125440382017536" target="_blank" rel="noopener">セッションスレ時代について</OutboundLink></li>
       </ul>
+      <h4>Ninjam、SoundCloud等</h4>
+      後述するニコニコ動画、YouTubeに多くの音源を投稿しているが他にも複数の媒体に音源を投稿している。<br/>
       <br/>
+      インターネット上で他のユーザとセッションすることができるNinjamに多くの音源が残っている。<br/>
+      以下のリンク先で「aanon」で検索すると、ござがセッションした音源を聴くことができる。<br/>
+      <ul class="tag">
+        <li><OutboundLink href="https://ninbot.com/" target="_blank" rel="noopener">Ninjam</OutboundLink></li>
+      </ul>
+      SoundCloudに「pianorz」名義で複数の音源を投稿している。<br/>
+      以下のリンク先から音源を聴くことができる。<br/>
+      <ul class="tag">
+        <li><OutboundLink href="https://soundcloud.com/pianorz" target="_blank" rel="noopener">SoundCloud</OutboundLink></li>
+      </ul>
+      ふわっちにて一度だけライブ配信しておりアーカイブが残っている。<br/>
+      <ul class="tag">
+        <li><OutboundLink href="https://whowatch.tv/archives/3895848" target="_blank" rel="noopener">ふわっち</OutboundLink></li>
+      </ul>
       <h4>ニコニコ動画時代「_」(アンダーバー)「あんだば先生」「ござにあす」名義</h4>
       2009年からニコニコ動画へピアノ動画の投稿を始めている。<br/>
       動画投稿当初はボカロ曲や音ゲーのような音数、手数が多めの演奏が中心であった。<br/>
@@ -91,7 +115,6 @@ const IndexPage = () => (
       <ul class="tag">
         <li><OutboundLink href="https://www.ymm.co.jp/magazine/piano/" target="_blank" rel="noopener">月刊ピアノ</OutboundLink></li>
       </ul>
-      <br/>
       編曲した楽譜も販売中。<br/>
       <ul class="tag">
         <li><OutboundLink href="https://mucome.net/profile?id=2690" target="_blank" rel="noopener">mucome</OutboundLink>はこちら</li>

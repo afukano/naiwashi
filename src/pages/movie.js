@@ -10,11 +10,6 @@ const SecondPage = () => (
   <Layout>
     <SEO title="おすすめ曲" />
     <h2>おすすめ投稿動画</h2>
-    <p>
-      <ul class="tag">
-        <li><Link to="/movie/twitter">Twitterのみの投稿動画</Link></li>
-      </ul>
-    </p>
     <h3>ストリートピアノ演奏</h3>
     <p>
       ござの最大の魅力はライブ配信時の即興演奏だが、ストリートピアノの演奏動画は再生回数も多く人気が高い。<br/>
