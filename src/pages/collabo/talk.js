@@ -23,6 +23,7 @@ const SecondPage = () => (
           src="https://twitcasting.tv/gprza/embeddedplayer/689995676?auto_play=false&default_mute=false" 
           frameBorder="0" 
           allowFullScreen
+          loading="lazy"
           title="ござ/雑談"
         ></iframe>
       </div>
@@ -43,6 +44,7 @@ const SecondPage = () => (
           src="https://twitcasting.tv/iriirisriri/embeddedplayer/657202568?auto_play=false&default_mute=false" 
           frameBorder="0" 
           allowFullScreen
+          loading="lazy"
           title="いりす/フィギュアスケート"
         ></iframe>
       </div>
@@ -61,6 +63,7 @@ const SecondPage = () => (
           src="https://twitcasting.tv/iriirisriri/embeddedplayer/620679803?auto_play=false&default_mute=false" 
           frameBorder="0" 
           allowFullScreen
+          loading="lazy"
           title="いりす/雑談"
         ></iframe>
       </div>
@@ -79,6 +82,7 @@ const SecondPage = () => (
           src="https://twitcasting.tv/iriirisriri/embeddedplayer/612965835?auto_play=false&default_mute=false" 
           frameBorder="0" 
           allowFullScreen
+          loading="lazy"
           title="いりす/ずっしー"
         ></iframe>
       </div>
@@ -96,6 +100,7 @@ const SecondPage = () => (
           src="https://twitcasting.tv/iriirisriri/embeddedplayer/608436682?auto_play=false&default_mute=false" 
           frameBorder="0" 
           allowFullScreen
+          loading="lazy"
           title="いりす/飲み垂れ流し"
         ></iframe>
       </div>

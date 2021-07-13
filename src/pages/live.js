@@ -18,6 +18,7 @@ const SecondPage = () => (
           frameBorder="0" 
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
           allowFullScreen
+          loading="lazy"
         ></iframe>
       </div>
       メンバーシップ未加入でも閲覧可能な、過去にライブ配信された動画。<br/>

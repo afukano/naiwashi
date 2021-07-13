@@ -22,6 +22,7 @@ const SecondPage = () => (
           frameBorder="0" 
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
           allowFullScreen
+          loading="lazy"
           title="ござ/ストリートピアノ"
         ></iframe>
       </div>
@@ -46,6 +47,7 @@ const SecondPage = () => (
           frameBorder="0" 
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
           allowFullScreen
+          loading="lazy"
           title="ござ/ルパン三世"
         ></iframe>
       </div>
@@ -63,6 +65,7 @@ const SecondPage = () => (
           src="https://www.youtube.com/embed/uA2PECsJROA" 
           frameBorder="0" 
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          loading="lazy"
           allowFullScreen
         ></iframe>
       </div>
@@ -77,6 +80,7 @@ const SecondPage = () => (
       <iframe
         width="312" height="176"  
         src="https://ext.nicovideo.jp/thumb/sm13496819" 
+        loading="lazy"
         scrolling="no" 
         frameBorder="0">
         <OutboundLink href="https://www.nicovideo.jp/watch/sm13496819">「neu(ニエンテ)」を弾いてみた</OutboundLink>
@@ -95,6 +99,7 @@ const SecondPage = () => (
           frameBorder="0" 
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
           allowFullScreen
+          loading="lazy"
         ></iframe>
       </div>
     </p>
@@ -105,6 +110,7 @@ const SecondPage = () => (
         src="https://ext.nicovideo.jp/thumb/sm11494784" 
         scrolling="no" 
         frameBorder="0"
+        loading="lazy"
         title="ござ/ChainingIntention">
         <OutboundLink href="https://www.nicovideo.jp/watch/sm11494784">「Chaining Intention」を弾いてみた</OutboundLink>
       </iframe>
@@ -117,6 +123,7 @@ const SecondPage = () => (
           frameBorder="0" 
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
           allowFullScreen
+          loading="lazy"
           title="ござ/カントリーロード"
         ></iframe>
       </div>
