@@ -111,6 +111,10 @@ const IndexPage = () => (
       Youtubeチャンネルのアイコンはネズミだがこれは特に意味はない。<br/>
       イラスト作成を依頼する際、強いて言えばござは何に似ているか？と聞いた回答がネズミだったため。<br/>
       <br/>
+      SPICEのござの記事(インタビューやライブレポート等)の一覧は以下のリンク先。<br/>
+      <ul class="tag">
+        <li><OutboundLink href="https://spice.eplus.jp/featured/0000142460/articles" target="_blank" rel="noopener">SPICEのござ記事</OutboundLink></li>
+      </ul>
       月刊ピアノにて「ござさんの All that Goza's Piano Arrange」を連載中。<br/>
       <ul class="tag">
         <li><OutboundLink href="https://www.ymm.co.jp/magazine/piano/" target="_blank" rel="noopener">月刊ピアノ</OutboundLink></li>

@@ -33,6 +33,7 @@ const SecondPage = () => (
         <li><OutboundLink href="https://ninbot.com/" target="_blank" rel="noopener">Ninjam「aanon」で検索する</OutboundLink></li>
         <li><OutboundLink href="https://soundcloud.com/pianorz" target="_blank" rel="noopener">SoundCloud</OutboundLink></li>
         <li><OutboundLink href="https://whowatch.tv/archives/3895848" target="_blank" rel="noopener">ふわっち</OutboundLink></li>
+        <li><OutboundLink href="https://spice.eplus.jp/featured/0000142460/articles" target="_blank" rel="noopener">ござの記事(SPICE)</OutboundLink></li>
       </ul>
     </p>
     <h3>楽譜/書籍等</h3>

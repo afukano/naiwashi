@@ -23,7 +23,37 @@ const SecondPage = () => (
         ></iframe>
       </div>
     </p>
-    <h3>NEO PIANO CO.LABO. “Invention”〜完全版〜　副音声付き　販売決定</h3>
+    <h3>Net Piano Summer Festival 2021 出演決定！</h3>
+    <p>
+      菊池亮太 主催のピアノ奏者によるライブ配信祭り。<br/>
+      通称「ネピサマ」。昨年に続く第2弾。<br/>
+      詳細については続報を待ちたい。<br/>
+      ■公演日<br/>
+      &nbsp;&nbsp;2022年8月28日（土） <br/>
+      <br/>
+    </p>
+    <h3>アルバム「BEMANI SYMPHONY ORIGINAL SOUNDTRACK」発売</h3>
+    <p>
+      コナミ音楽ゲームBEMANIシリーズの楽曲をオーケストラアレンジしたアルバム「BEMANI SYMPHONY ORIGINAL SOUNDTRACK」が2021年9月15日に発売。<br/>
+      本アルバムは通常盤とコナミスタイル限定盤の2形態で発売さる。<br/>
+      <br/>
+      ござはコナミスタイル限定盤のアレンジ及びピアノで参加している。<br/>
+      完全生産限定となっているので手に入れたい人は早めに予約しておきたい。<br/>
+      <br/>
+      なお、本アルバムはBEMANIシリーズの楽曲をオーケストラアレンジするプロジェクト「BEMANI SYMPHONY」の第1弾として発表されており、今後第2弾以降の発表が予定されているようだ。<br/>
+      <br/>
+      ■発売日<br/>
+      &nbsp;&nbsp;2021年9月15日<br/>
+      ■料金<br/>
+      &nbsp;&nbsp;通常盤：3,850円（税込）<br/>
+      &nbsp;&nbsp;コナミスタイル限定盤<br/>
+      &nbsp;&nbsp;完全生産限定セット：5,500円（税込）<br/>
+      <br/>
+      <ul class="tag">
+        <li><OutboundLink href="https://bs.edp-edp.com/" target="_blank" rel="noopener">公式サイト</OutboundLink></li>
+      </ul>
+    </p>
+    <h3>NEO PIANO CO.LABO. “Invention”〜完全版〜　副音声付き　販売</h3>
     <p>
       2021年2月11日に開催された公演を参加者の副音声付きに編集してお届けします！<br/>
       ※副音声なしでもお楽しみいただけます<br/>
