@@ -9,7 +9,7 @@ import SEO from "../components/seo"
 const SecondPage = () => (
   <Layout>
     <SEO title="ライブ配信" />
-    <h2>ライブ配信について</h2>
+    <h2>ライブ配信(ピアノライブ)について</h2>
     <h3>ライブ配信ってどんな雰囲気？</h3>
     <p>
       <div class="youtube">

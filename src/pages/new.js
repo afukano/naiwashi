@@ -23,7 +23,7 @@ const SecondPage = () => (
         ></iframe>
       </div>
     </p>
-    <h3>Net Piano Summer Festival 2021 出演決定！</h3>
+    <h3>【ネピサマ】Net Piano Summer Festival 2021 出演決定！</h3>
     <p>
       菊池亮太 主催のピアノ奏者によるライブ配信祭り。<br/>
       通称「ネピサマ」。昨年に続く第2弾。<br/>
@@ -53,7 +53,7 @@ const SecondPage = () => (
         <li><OutboundLink href="https://bs.edp-edp.com/" target="_blank" rel="noopener">公式サイト</OutboundLink></li>
       </ul>
     </p>
-    <h3>NEO PIANO CO.LABO. “Invention”〜完全版〜　副音声付き　販売</h3>
+    <h3>【ねぴらぼ】NEO PIANO CO.LABO. “Invention”〜完全版〜　副音声付き　販売</h3>
     <p>
       2021年2月11日に開催された公演を参加者の副音声付きに編集してお届けします！<br/>
       ※副音声なしでもお楽しみいただけます<br/>
@@ -76,7 +76,7 @@ const SecondPage = () => (
         <li><OutboundLink href="https://www.barks.jp/news/?id=1000200911" target="_blank" rel="noopener">【インタビュー】けいちゃん＆ござ＆さなゑちゃん＆ハラミちゃん＆よみぃが語る、ストリートピアノ</OutboundLink></li>
       </ul>
     </p>
-    <h3>ワンマンライブ開催決定！</h3>
+    <h3>【ござの日】ワンマンライブ開催決定！</h3>
     <p>
       プロ転向後初となるワンマンライブが開催される。(配信のみ)<br/>
       ■公演日<br/>
@@ -115,7 +115,7 @@ const SecondPage = () => (
         <li><OutboundLink href="https://news.merumo.ne.jp/article/genre/10455637" target="_blank" rel="noopener">かてぃん・菊池亮太・けいちゃん・ござ、白熱のリハーサルに突撃！　『NEO PIANO CO.LABO.』第二弾“Invention”の見どころは？</OutboundLink></li>
       </ul>
     </p>
-    <h3>NEO PIANO CO.LABO. "Invention" 出演決定！</h3>
+    <h3>【ねぴらぼ】NEO PIANO CO.LABO. "Invention" 出演決定！</h3>
     <p>
       話題の配信系ピアニスト「かてぃん」「菊池亮太」「ござ」「けいちゃん」によるコラボライブ第2弾。<br/>
       通称「ねぴらぼ」。<br/>
@@ -128,7 +128,7 @@ const SecondPage = () => (
         <li><OutboundLink href="https://nepilab-goods.net/" target="_blank" rel="noopener">公式グッズ販売サイト</OutboundLink></li>
       </ul>
     </p>
-    <h3>NET PIANO FUYU MATSURI 2021 出演決定！</h3>
+    <h3>【ネピフユ】NET PIANO FUYU MATSURI 2021 出演決定！</h3>
     <p>
       菊池亮太 主催のピアノ奏者によるライブ配信祭り。<br/>
       通称「ネピフユ」。前回「ネピサマ」に続く第2弾。<br/>
@@ -139,7 +139,7 @@ const SecondPage = () => (
         <li><OutboundLink href="https://twitter.com/komuro_metal/status/1345695150119403521?s=20" target="_blank" rel="noopener">ネピフユ詳細</OutboundLink></li>
       </ul>
     </p>
-    <h3>NEO PIANO CO.LABO.　完全版　〜副音声付き〜販売中</h3>
+    <h3>【ねぴらぼ】NEO PIANO CO.LABO.　完全版　〜副音声付き〜販売中</h3>
     <p>
       2020年7月24日に開催したNEO PIANO CO.LABO.本公演の映像・音源を再編集し新たな映像作品として配信！<br/>
       また、本公演だけでなく、出演者達の副音声verも収録。<br/>
