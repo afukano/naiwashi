@@ -27,10 +27,12 @@ const SecondPage = () => (
     <p>
       菊池亮太 主催のピアノ奏者によるライブ配信祭り。<br/>
       通称「ネピサマ」。昨年に続く第2弾。<br/>
-      詳細については続報を待ちたい。<br/>
       ■公演日<br/>
-      &nbsp;&nbsp;2022年8月28日（土） <br/>
+      &nbsp;&nbsp;2022年8月28日（土）18:15～ <br/>
       <br/>
+      <ul class="tag">
+        <li><OutboundLink href="https://twitter.com/komuro_metal/status/1430493189459218435" target="_blank" rel="noopener">ネピサマ詳細</OutboundLink></li>
+      </ul>
     </p>
     <h3>アルバム「BEMANI SYMPHONY ORIGINAL SOUNDTRACK」発売</h3>
     <p>
