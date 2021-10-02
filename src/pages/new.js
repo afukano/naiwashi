@@ -23,6 +23,20 @@ const SecondPage = () => (
         ></iframe>
       </div>
     </p>
+    <h3>「SPICE」にデビューアルバム、リリース記念コンサートについての記事が掲載されました</h3>
+    <p>
+      <ul class="tag">
+        <li><OutboundLink href="http://spice.eplus.jp/articles/293312" target="_blank" rel="noopener">ピアニスト・ござ、デビューアルバム『EnVision』が発売決定　1月にはリリース記念コンサートも</OutboundLink></li>
+      </ul>
+    </p>
+    <h3>オフィシャルサイト開設！</h3>
+    <p>
+      2021年10月2日に、ござのオフィシャルサイトが開設された。<br/>
+      <br/>
+      <ul class="tag">
+        <li><OutboundLink href="https://goza.jp/" target="_blank" rel="noopener">オフィシャルサイト</OutboundLink></li>
+      </ul>
+    </p>
     <h3>【ネピサマ】Net Piano Summer Festival 2021 出演決定！</h3>
     <p>
       菊池亮太 主催のピアノ奏者によるライブ配信祭り。<br/>

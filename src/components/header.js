@@ -49,7 +49,6 @@ const Header = ({ siteTitle }) => (
           textDecoration: `none`,
         }}
       >
-        &nbsp;※本サイトは非公式のファンサイトです
       </p>
       <h1 style={{ margin: 0,
         paddingTop: `30px`, }}>
@@ -60,7 +59,7 @@ const Header = ({ siteTitle }) => (
             textDecoration: `none`,
           }}
         >
-          ござ(ピアノ演奏者)のホームページ
+          ござ(ピアノ演奏者)の非公式ホームページ
         </Link>
       </h1>
     </div>

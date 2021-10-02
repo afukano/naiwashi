@@ -13,6 +13,7 @@ const SecondPage = () => (
     <h3>ござ</h3>
     <p>
       <ul class="tag">
+        <li><OutboundLink href="https://goza.jp/" target="_blank" rel="noopener">オフィシャルサイト</OutboundLink></li>
         <li><OutboundLink href="https://gozapiano.com/" target="_blank" rel="noopener">公式ホームページ(ブログ)</OutboundLink></li>
         <li><OutboundLink href="https://www.youtube.com/channel/UC2Kb6k-aGIaKxlNPkrdcoHA" target="_blank" rel="noopener">Youtubeチャンネル</OutboundLink></li>        
         <li><OutboundLink href="https://twitter.com/gprza" target="_blank" rel="noopener">Twitter</OutboundLink></li>

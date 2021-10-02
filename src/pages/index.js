@@ -15,6 +15,12 @@ const IndexPage = () => (
   <Layout>
     <SEO title="Top" />
     <h2>「ござ」の経歴(プロフィール)</h2>
+    <p>
+      ※本サイトは非公式のファンサイトです。オフィシャルサイトはこちら。
+      <ul class="tag">
+        <li><OutboundLink href="https://goza.jp/" target="_blank" rel="noopener">オフィシャルサイト</OutboundLink></li>
+      </ul>
+    </p>
     <h3>「ござ」って何者？</h3>
     <p>
       Youtubeを中心に活躍するピアニスト「ござ」。(以降、敬称略)<br/>
