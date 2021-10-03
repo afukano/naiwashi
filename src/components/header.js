@@ -42,13 +42,13 @@ const Header = ({ siteTitle }) => (
         marginBottom: `1.45rem`,
       }}
     >
-      <p style={{
+      <p id="header_padding" style={{
           margin: 0,
-          paddingTop: `60px`,
           color: `white`,
           textDecoration: `none`,
         }}
       >
+        &nbsp;
       </p>
       <h1 style={{ margin: 0,
         paddingTop: `30px`, }}>

@@ -696,6 +696,9 @@ pre tt:after {
 }
 
 @media screen and (max-width: 768px) {
+  #header_padding {
+    padding-top: 60px !important;
+  }
   #gnav ul {
     flex-wrap: wrap;
     width: 100%;
