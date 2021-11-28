@@ -30,6 +30,11 @@ const SecondPage = () => (
       <ul class="tag">
         <li><OutboundLink href="https://www.youtube.com/playlist?list=PLTjfre1_Qtf9z-H451reX99lvQzeGCSKx" target="_blank" rel="noopener">ストリートピアノ再生リスト</OutboundLink></li>
       </ul>
+      メンバーシップに加入しないと基本的に過去のライブ配信は視聴できない。<br/>
+      しかしイベントでの配信や切り抜き動画等、メンバーシップ未加入でも視聴可能な動画も存在する。<br/>
+      <ul class="tag">
+        <li><OutboundLink href="https://www.youtube.com/playlist?list=PLTjfre1_Qtf-IIdufmZdO2irUYL5YNDpi" target="_blank" rel="noopener">配信動画再生リスト</OutboundLink></li>
+      </ul>
       もっとござの事を知りたい方は、本人のチャンネル以外にござが出演した、もしくは関連する動画の再生リストも作成してあるので参照して欲しい。
       <ul class="tag">
         <li><OutboundLink href="https://www.youtube.com/playlist?list=PLTjfre1_Qtf-G1CMKyUrfisZI03Z0Ke_v" target="_blank" rel="noopener">他チャンネル再生リスト</OutboundLink></li>

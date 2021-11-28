@@ -23,6 +23,12 @@ const SecondPage = () => (
       </div>
       メンバーシップ未加入でも閲覧可能な、過去にライブ配信された動画。<br/>
       この動画は、ペンギンの被り物＋電子ピアノだが、素顔出し＋グランドピアノでの配信もある。<br/>
+      <ul class="tag">
+        <li><OutboundLink href="https://youtu.be/jI0tN1wpRTE" target="_blank" rel="noopener">グランドピアノ配信の切り抜き（Everything / MISIA）</OutboundLink></li>
+      </ul>
+      <ul class="tag">
+        <li><OutboundLink href="https://youtu.be/Kyb8lnEXN_Q" target="_blank" rel="noopener">電子ピアノ配信（【ネピフユ】す　ご　い　配　信）</OutboundLink></li>
+      </ul>
       合間にトークを挟みながら、リクエストを受け付けて即興演奏をする。<br/>
       以前はスーパーチャット(投げ銭)でリクエストすると必ず演奏してもらえた。<br/>
       しかし視聴者数が増えてからはリクエストを捌ききれない状態になったため、スーパーチャットによるリクエストは受け付けていない。<br/>
@@ -122,6 +128,24 @@ const SecondPage = () => (
         <small>Created by <OutboundLink href="https://twitter.com/pinksaurs" target="_blank" rel="noopener">pinksaurs</OutboundLink></small></li>
         <li><OutboundLink href="https://docs.google.com/document/u/0/d/1rwMzJemS9vd9eCM7qFKfJ8--yNYvYP_NQOeypI1h3hc/mobilebasic" target="_blank" rel="noopener">ござさん演奏回数ランキング2021年</OutboundLink><br/>
         <small>Created by <OutboundLink href="https://twitter.com/pinksaurs" target="_blank" rel="noopener">pinksaurs</OutboundLink></small></li>
+      </ul>
+    </p>
+    <h3>SNSや配信視聴に不慣れな方へ</h3>
+    <p>
+      守らなければならないルール等は存在しないが「嫌われるリスナー」にはならないように注意してほしい。<br/>
+      <ul class="tag">
+        <li>
+          <OutboundLink href="https://ameblo.jp/twitcaster/entry-12352138659.html" target="_blank" rel="noopener">嫌われるリスナー</OutboundLink>
+        </li>
+      </ul>
+    </p>
+    <p>
+      Twitterの使い方や用語等については身近にいる詳しい人に聞くなり調べるなりして欲しい。<br/>
+      ただし気づかないうちに他の人に迷惑をかけてしまうこともあるので注意が必要。<br/>
+      <ul class="tag">
+        <li>
+          <OutboundLink href="https://applimura.com/twitter-involve-reply/" target="_blank" rel="noopener">Twitterの巻き込みリプとは？</OutboundLink>
+        </li>
       </ul>
     </p>
   </Layout>

@@ -23,6 +23,12 @@ const SecondPage = () => (
         ></iframe>
       </div>
     </p>
+    <h3>「SPICE」にデビューアルバム『EnVision』発売記念インタビューが掲載されました</h3>
+    <p>
+      <ul class="tag">
+        <li><OutboundLink href="http://spice.eplus.jp/articles/295443" target="_blank" rel="noopener">ピアニスト・ござ、デビューアルバム『EnVision』発売記念インタビュー！ “絵画的”アルバム、その内容とは？</OutboundLink></li>
+      </ul>
+    </p>
     <h3>「SPICE」にデビューアルバム、リリース記念コンサートについての記事が掲載されました</h3>
     <p>
       <ul class="tag">
